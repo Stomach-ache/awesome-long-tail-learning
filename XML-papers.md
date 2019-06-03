@@ -6,6 +6,15 @@
 
 
 ----
+# Tree-based Methods
+
+| Year       | Conference/Journal       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2019           | Arxiv  | [LdSM: Logarithm-depth Streaming Multi-label
+Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | |
+
+
+----
 
 # Theoritical Studies
 
