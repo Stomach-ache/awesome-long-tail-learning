@@ -29,3 +29,9 @@
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), by CUHK |
+
+
+## Text Classification
+| Year       | Conference/Journal       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2019 | NurIPS | [AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks](https://arxiv.org/pdf/1811.01727.pdf) |
