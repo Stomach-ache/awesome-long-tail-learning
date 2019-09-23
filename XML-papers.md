@@ -30,7 +30,7 @@
 | ------------- |:-------------:| --------------:|------------:|
 |2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), by CUHK |
 
-
+----
 ## Text Classification
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
