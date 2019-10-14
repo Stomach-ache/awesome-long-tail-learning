@@ -11,9 +11,36 @@
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019           | Arxiv  | [LdSM: Logarithm-depth Streaming Multi-label Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | |
+|2018 | ICML | CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning |
 |2018           | WWW | [Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising](http://manikvarma.org/pubs/prabhu18b.pdf) | Label tree...by Manik Varma |
+|2017 | ICML | Extreme F-Measure Maximization using Sparse Probability Estimates |
 |2016 | ICML | [Extreme F-Measure Maximization using Sparse Probability Estimates](https://pdfs.semanticscholar.org/b148/75d1e1850121d8720c39f853af5f455ecc44.pdf) | Label tree |
+|2016 | KDD | Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking & Other Missing Label Applications |
+|2014 | KDD | A Fast, Accurate and Stable Tree-classifier for eXtreme Multi-label Learning | Instance tree |
 
+----
+# Embedding-based Methods
+
+| Year       | Conference/Journal       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2015 | NeurIPS | Sparse Local Embeddings for Extreme Multi-label Classification |
+|2014 | ICML | Large-scale Multi-label Learning with Missing Labels |
+|2014 | ICML | Multi-label Classification via Feature-aware Implicit Label Space Encoding |
+|2013 | ICML | Label Partitioning For Sublinear Ranking |
+|2013 | ICML | Efficient Multi-label Classification with Many Labels |
+|2012 | NeurIIPS | Feature-aware Label Space Dimension Reduction for Multi-label Classification |
+|2009 | NeurIPS | Multi-Label Prediction via Compressed Sensing |
+|2008 | KDD | Extracting Shared Subspaces for Multi-label Classification |
+
+
+# Binary Relevance
+
+| Year       | Conference/Journal       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2017 | KDD | PPDSparse: A Parallel Primal-Dual Sparse Method for Extreme Classification |
+|2017 | AISTATS | Label Filters for Large Scale Multilabel Classification |
+|2016 | WSDM | DiSMEC - Distributed Sparse Machines for Extreme Multi-label Classification |
+|2016 | ICML | PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification |
 
 ----
 
@@ -45,3 +72,35 @@
 https://arxiv.org/pdf/1901.00248.pdf
 http://www.iith.ac.in/~saketha/research/AkshatMTP2018.pdf
 http://manikvarma.org/pubs/bengio19.pdf
+
+
+
+[03]     R. Agrawal, A. Gupta , Y. Prabhu, and M. Varma, Multi-Label Learning with Millions of Labels: Recommending Advertiser Bid Phrases for Web Pages, in WWW, 2013.
+[07]     F. Tai, and H. Lin, Multi-label Classification with Principle Label Space Transformation , in Neural Computation, 2012.
+[10]     C. Ferng, and H. Lin, Multi-label Classification with Error-correcting Codes, in ACML, 2011.
+[11]     J. Weston, S. Bengio, and N. Usunier, WSABIE: Scaling Up To Large Vocabulary Image Annotation , in IJCAI, 2011.
+[14]     P. Mineiro, and N. Karampatziakis, Fast Label Embeddings via Randomized Linear Algebra, Preprint, 2015.
+[15]     N. Karampatziakis, and P. Mineiro, Scalable Multilabel Prediction via Randomized Methods, Preprint, 2015.
+[16]     K. Balasubramanian, and G. Lebanon, The Landmark Selection Method for Multiple Output Prediction , Preprint, 2012.
+[17]     M. Cisse, N. Usunier, T. Artieres, and P. Gallinari, Robust Bloom Filters for Large Multilabel Classification Tasks , in NIPS, 2013.
+[18]     B. Hariharan, S. Vishwanathan, and M. Varma, Efficient max-margin multi-label classification with applications to zero-shot learning, in Machine Learning Journal, 2012.
+[19]     C. Snoek, M. Worring, J. van Gemert, J.-M. Geusebroek, and A. Smeulders, The challenge problem for automated detection of 101 semantic concepts in multimedia, in ACM Multimedia, 2006.
+[20]     I. Katakis, G. Tsoumakas, and I. Vlahavas, Multilabel text classification for automated tag suggestion, in ECML/PKDD Discovery Challenge, 2008.
+[21]     G. Tsoumakas, I. Katakis, and I. Vlahavas, Effective and efficient multilabel classification in domains with large number of labels, in ECML/PKDD 2008 Workshop on Mining Multidimensional Data, 2008.
+[22]     J. Leskovec and A. Krevl, SNAP Datasets: Stanford large network dataset collection, 2014.
+[23]     A. Zubiaga, Enhancing navigation on wikipedia with social tags, Preprint, 2009.
+[24]     R. Wetzker, C. Zimmermann, and C. Bauckhage, Analyzing social bookmarking systems: A del.icio.us cookbook, in Mining Social Data (MSoDa) Workshop Proceedings, ECAI, 2008.
+[25]     I. Partalas, A Kosmopoulos, N Baskiotis, T Artieres, G Paliouras, E Gaussier, I Androutsopoulos, M.-R. Amini and P Galinari, LSHTC: A Benchmark for Large-Scale Text Classification, Preprint , 2015
+[26]     D. D. Lewis, Y. Yang, T. Rose, and F. Li, RCV1: A New Benchmark Collection for Text Categorization Research in Journal of Machine Learning Research, 2004.
+[27]     E. L. Mencia, and J. Furnkranz, Efficient pairwise multilabel classification for large-scale problems in the legal domain in ECML/PKDD, 2008.
+[28]     J. McAuley, and J. Leskovec, Hidden factors and hidden topics: understanding rating dimensions with review text in Proceedings of the 7th ACM conference on Recommender systems ACM, 2013.
+[29]     J. McAuley, C. Targett, Q. Shi, and A. v. d. Hengel, Image-based Recommendations on Styles and Substitutes in International ACM SIGIR Conference on Research and Development in Information Retrieval, 2015.
+[30]     J. McAuley, R. Pandey, and J. Leskovec, Inferring networks of substitutable and complementary products in KDD, 2015.
+
+
+
+[38]    H. Jain,  V. Balasubramanian,  B. Chunduri and M. Varma, Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches, in WSDM 2019.
+[39]     R. Babbar, and B. Schölkopf, Data Scarcity, Robustness and Extreme Multi-label Classification in Machine Learning Journal and European Conference on Machine Learning, 2019.
+[40]    S. Khandagale,  H. Xiao and  R. Babbar, Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification, in ArXiv 2019.
+
+
