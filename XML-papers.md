@@ -10,6 +10,7 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2019   | Arxiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | label tree |
 |2019           | Arxiv  | [LdSM: Logarithm-depth Streaming Multi-label Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | Instance tree |
 |2018 | ICML | [CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning](http://proceedings.mlr.press/v80/siblini18a/siblini18a.pdf) | Instance tree |
 |2018           | WWW | [Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising](http://manikvarma.org/pubs/prabhu18b.pdf) | Label tree...by Manik Varma |
@@ -103,6 +104,5 @@ http://manikvarma.org/pubs/bengio19.pdf
 
 [38]    H. Jain,  V. Balasubramanian,  B. Chunduri and M. Varma, Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches, in WSDM 2019.
 [39]     R. Babbar, and B. Schölkopf, Data Scarcity, Robustness and Extreme Multi-label Classification in Machine Learning Journal and European Conference on Machine Learning, 2019.
-[40]    S. Khandagale,  H. Xiao and  R. Babbar, Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification, in ArXiv 2019.
 
 
