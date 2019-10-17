@@ -10,7 +10,7 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2019   | Arxiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | label tree |
+|2019   | Arxiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | Label tree |
 |2019           | Arxiv  | [LdSM: Logarithm-depth Streaming Multi-label Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | Instance tree |
 |2018 | ICML | [CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning](http://proceedings.mlr.press/v80/siblini18a/siblini18a.pdf) | Instance tree |
 |2018           | WWW | [Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising](http://manikvarma.org/pubs/prabhu18b.pdf) | Label tree...by Manik Varma |
@@ -19,7 +19,7 @@
 |2014 | KDD | [A Fast, Accurate and Stable Tree-classifier for eXtreme Multi-label Learning](http://manikvarma.org/pubs/prabhu14.pdf) | Instance tree |
 |2011 | NeurIPS | [Efficient label tree learning for large scale object recognition](http://vision.stanford.edu/pdf/NIPS2011_0391.pdf) | Label tree, multi-class |
 |2010 | NeurIPS | [Label embedding trees for large multi-class tasks](https://papers.nips.cc/paper/4027-label-embedding-trees-for-large-multi-class-tasks.pdf) | Label tree, multi-class |
-|2008 | ECML Workshop | [Effective and Efficient Multilabel Classification in Domains with Large Number of Labels](http://lpis.csd.auth.gr/publications/tsoumakas-mmd08.pdf) |
+|2008 | ECML Workshop | [Effective and Efficient Multilabel Classification in Domains with Large Number of Labels](http://lpis.csd.auth.gr/publications/tsoumakas-mmd08.pdf) | Label tree |
 
 
 ----
