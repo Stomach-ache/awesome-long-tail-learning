@@ -19,6 +19,7 @@
 |2014 | KDD | [A Fast, Accurate and Stable Tree-classifier for eXtreme Multi-label Learning](http://manikvarma.org/pubs/prabhu14.pdf) | Instance tree |
 |2011 | NeurIPS | [Efficient label tree learning for large scale object recognition](http://vision.stanford.edu/pdf/NIPS2011_0391.pdf) | Label tree, multi-class |
 |2010 | NeurIPS | [Label embedding trees for large multi-class tasks](https://papers.nips.cc/paper/4027-label-embedding-trees-for-large-multi-class-tasks.pdf) | Label tree, multi-class |
+|2008 | ECML Workshop | [Effective and Efficient Multilabel Classification in Domains with Large Number of Labels](http://lpis.csd.auth.gr/publications/tsoumakas-mmd08.pdf) |
 
 
 ----
