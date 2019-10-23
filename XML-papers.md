@@ -74,6 +74,11 @@
 |2019 | NeurIPS | [AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks](https://arxiv.org/pdf/1811.01727.pdf) |
 |2017 | SIGIR | [Deep Learning for Extreme Multi-label Text Classification](http://nyc.lti.cs.cmu.edu/yiming/Publications/jliu-sigir17.pdf) | by Yiming Yang at CMU|
 
+### XML Seminar
+| Year       | Conference/Journal       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2019 | Dagstuhl Seminar 18291  | [Extreme Classification](http://manikvarma.org/pubs/bengio19.pdf) |
+
 
 ### Survey References:
 https://arxiv.org/pdf/1901.00248.pdf
