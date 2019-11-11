@@ -47,7 +47,7 @@
 |2017 | KDD | PPDSparse: A Parallel Primal-Dual Sparse Method for Extreme Classification |
 |2017 | AISTATS | Label Filters for Large Scale Multilabel Classification |
 |2016 | WSDM | DiSMEC - Distributed Sparse Machines for Extreme Multi-label Classification |
-|2016 | ICML | PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification |
+|2016 | ICML | [PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf) |
 
 ----
 
