@@ -30,6 +30,7 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2019 | NeurIPS | [Breaking the Glass Ceiling for Embedding-Based Classifiers for Large Ouput Spaces](https://ai.google/research/pubs/pub48660/) | by Google Research|
 |2015 | NeurIPS | Sparse Local Embeddings for Extreme Multi-label Classification |
 |2014 | ICML | Large-scale Multi-label Learning with Missing Labels |
 |2014 | ICML | Multi-label Classification via Feature-aware Implicit Label Space Encoding |
