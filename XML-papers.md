@@ -88,6 +88,7 @@ http://www.iith.ac.in/~saketha/research/AkshatMTP2018.pdf
 http://manikvarma.org/pubs/bengio19.pdf
 
 
+### Papers To Be Categorized
 [07]     F. Tai, and H. Lin, Multi-label Classification with Principle Label Space Transformation , in Neural Computation, 2012.
 [10]     C. Ferng, and H. Lin, Multi-label Classification with Error-correcting Codes, in ACML, 2011.
 [11]     J. Weston, S. Bengio, and N. Usunier, WSABIE: Scaling Up To Large Vocabulary Image Annotation , in IJCAI, 2011.
@@ -96,16 +97,7 @@ http://manikvarma.org/pubs/bengio19.pdf
 [16]     K. Balasubramanian, and G. Lebanon, The Landmark Selection Method for Multiple Output Prediction , Preprint, 2012.
 [17]     M. Cisse, N. Usunier, T. Artieres, and P. Gallinari, Robust Bloom Filters for Large Multilabel Classification Tasks , in NIPS, 2013.
 [18]     B. Hariharan, S. Vishwanathan, and M. Varma, Efficient max-margin multi-label classification with applications to zero-shot learning, in Machine Learning Journal, 2012.
-[19]     C. Snoek, M. Worring, J. van Gemert, J.-M. Geusebroek, and A. Smeulders, The challenge problem for automated detection of 101 semantic concepts in multimedia, in ACM Multimedia, 2006.
 [20]     I. Katakis, G. Tsoumakas, and I. Vlahavas, Multilabel text classification for automated tag suggestion, in ECML/PKDD Discovery Challenge, 2008.
-[21]     G. Tsoumakas, I. Katakis, and I. Vlahavas, Effective and efficient multilabel classification in domains with large number of labels, in ECML/PKDD 2008 Workshop on Mining Multidimensional Data, 2008.
-[22]     J. Leskovec and A. Krevl, SNAP Datasets: Stanford large network dataset collection, 2014.
 [23]     A. Zubiaga, Enhancing navigation on wikipedia with social tags, Preprint, 2009.
 [27]     E. L. Mencia, and J. Furnkranz, Efficient pairwise multilabel classification for large-scale problems in the legal domain in ECML/PKDD, 2008.
-[28]     J. McAuley, and J. Leskovec, Hidden factors and hidden topics: understanding rating dimensions with review text in Proceedings of the 7th ACM conference on Recommender systems ACM, 2013.
-[29]     J. McAuley, C. Targett, Q. Shi, and A. v. d. Hengel, Image-based Recommendations on Styles and Substitutes in International ACM SIGIR Conference on Research and Development in Information Retrieval, 2015.
-[30]     J. McAuley, R. Pandey, and J. Leskovec, Inferring networks of substitutable and complementary products in KDD, 2015.
-
 [39]     R. Babbar, and B. Schölkopf, Data Scarcity, Robustness and Extreme Multi-label Classification in Machine Learning Journal and European Conference on Machine Learning, 2019.
-
-
