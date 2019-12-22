@@ -31,6 +31,7 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2019 | arXiv | [Ranking-Based Autoencoder for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.05937.pdf) | |
 |2019 | NeurIPS | [Breaking the Glass Ceiling for Embedding-Based Classifiers for Large Ouput Spaces](https://ai.google/research/pubs/pub48660/) | by Google Research|
 |2015 | NeurIPS | [Sparse Local Embeddings for Extreme Multi-label Classification](http://manikvarma.org/pubs/bhatia15.pdf) | |
 |2014 | ICML | Large-scale Multi-label Learning with Missing Labels |
