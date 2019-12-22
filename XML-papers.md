@@ -2,7 +2,8 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2019			|    Arxiv   |    [Accelerating Extreme Classification via Adaptive Feature Agglomeration](https://arxiv.org/pdf/1905.11769.pdf)  |   authors from IIT    |
+|2019     | arXiv | [An Embarrassingly Simple Baseline for eXtreme Multi-label Prediction](https://arxiv.org/pdf/1912.08140.pdf) | |
+|2019			|    arXiv   |    [Accelerating Extreme Classification via Adaptive Feature Agglomeration](https://arxiv.org/pdf/1905.11769.pdf)  |   authors from IIT    |
 |2019     | SDM     | [Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization](https://www.cs.ubc.ca/~mpf/pdfs/2019-one-vs-all.pdf) |
 
 ----
@@ -11,7 +12,7 @@
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | NeurIPS | [AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks](https://arxiv.org/pdf/1811.01727.pdf) | Label tree |
-|2019   | Arxiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | Label tree |
+|2019   | arXiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | Label tree |
 |2019           | Arxiv  | [LdSM: Logarithm-depth Streaming Multi-label Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | Instance tree |
 |2018 | ICML | [CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning](http://proceedings.mlr.press/v80/siblini18a/siblini18a.pdf) | Instance tree |
 |2018           | WWW | [Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising](http://manikvarma.org/pubs/prabhu18b.pdf) | Label tree...by Manik Varma |
@@ -71,7 +72,7 @@
 ## Text Classification
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2019 | Arxiv  | [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf) | by [Yiming Yang](https://scholar.google.com/citations?hl=en&user=MlZq4XwAAAAJ&view_op=list_works&sortby=pubdate), Inderjit Dhillon |
+|2019 | arXiv  | [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf) | by [Yiming Yang](https://scholar.google.com/citations?hl=en&user=MlZq4XwAAAAJ&view_op=list_works&sortby=pubdate), Inderjit Dhillon |
 |2019 | NeurIPS | [AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks](https://arxiv.org/pdf/1811.01727.pdf) |
 |2017 | SIGIR | [Deep Learning for Extreme Multi-label Text Classification](http://nyc.lti.cs.cmu.edu/yiming/Publications/jliu-sigir17.pdf) | by Yiming Yang at CMU, [bibtex](https://dblp.uni-trier.de/rec/bibtex0/conf/sigir/LiuCWY17)|
 
