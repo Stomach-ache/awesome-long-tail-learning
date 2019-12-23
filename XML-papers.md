@@ -38,6 +38,7 @@
 |2014 | ICML | Multi-label Classification via Feature-aware Implicit Label Space Encoding |
 |2013 | ICML | Efficient Multi-label Classification with Many Labels |
 |2012 | NeurIIPS | Feature-aware Label Space Dimension Reduction for Multi-label Classification |
+|2011 | IJCAI | [WSABIE: Scaling Up To Large Vocabulary Image Annotation](file:///C:/Users/Admin/Downloads/2926-16078-1-PB.pdf) | [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/WestonBU11) |
 |2009 | NeurIPS | Multi-Label Prediction via Compressed Sensing |
 |2008 | KDD | Extracting Shared Subspaces for Multi-label Classification |
 
@@ -93,7 +94,6 @@ http://manikvarma.org/pubs/bengio19.pdf
 ### Papers To Be Categorized
 [07]     F. Tai, and H. Lin, Multi-label Classification with Principle Label Space Transformation , in Neural Computation, 2012.
 [10]     C. Ferng, and H. Lin, Multi-label Classification with Error-correcting Codes, in ACML, 2011.
-[11]     J. Weston, S. Bengio, and N. Usunier, WSABIE: Scaling Up To Large Vocabulary Image Annotation , in IJCAI, 2011.
 [14]     P. Mineiro, and N. Karampatziakis, Fast Label Embeddings via Randomized Linear Algebra, Preprint, 2015.
 [15]     N. Karampatziakis, and P. Mineiro, Scalable Multilabel Prediction via Randomized Methods, Preprint, 2015.
 [16]     K. Balasubramanian, and G. Lebanon, The Landmark Selection Method for Multiple Output Prediction , Preprint, 2012.
