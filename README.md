@@ -1,6 +1,6 @@
 ## eXtreme Multi-label Learning (XML)
 
-This repo maintains a list of [XML Papers](https://github.com/Stomach-ache/Extreme-Multi-label-Learning/edit/master/XML-papers.md).
+This repo maintains a list of [XML Papers](https://github.com/Stomach-ache/Extreme-Multi-label-Learning/XML-papers.md).
 
 The information about papers including:
 1. Title
