@@ -10,3 +10,5 @@ The information about papers including:
 5. Authors' affiliation
 6. Code (if available)
 7. Bibtex
+
+### XMC Datasets [link](https://github.com/DanqingZ/xmc_dataset)
