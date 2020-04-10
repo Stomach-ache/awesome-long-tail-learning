@@ -1,6 +1,6 @@
 # Speed-up and Compression
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2020 | ICLR | [EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION](https://arxiv.org/pdf/2002.06298.pdf) | |
 |2019 | AISTATS | [Stochastic Negative Mining for Learning with Large Output Spaces](http://www.sanjivk.com/SNM_AISTATS19.pdf) | by Google|
@@ -12,7 +12,7 @@
 ----
 # Tree-based Methods
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | NeurIPS | [AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks](https://arxiv.org/pdf/1811.01727.pdf) | Label tree |
 |2019   | arXiv | [Bonsai - Diverse and Shallow Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.08249.pdf) | Label tree |
@@ -32,7 +32,7 @@
 ----
 # Embedding-based Methods
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue      | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | AAAI | [Distributional Semantics Meets Multi-Label Learning](https://aaai.org/ojs/index.php/AAAI/article/view/4260) | [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/aaai/0001WNK0R19)|
 |2019 | arXiv | [Ranking-Based Autoencoder for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.05937.pdf) | |
@@ -59,13 +59,15 @@
 
 ----
 # Noval XML Settings
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
 |2020 | arXiv | [Extreme Multi-label Classification from Aggregated Labels](https://arxiv.org/pdf/2004.00198.pdf) | by Inderjit Dhillon |
 
 ----
 
 # Theoritical Studies
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue      | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019           | ICML  | [Sparse Extreme Multi-label Learning with Oracle Property](http://proceedings.mlr.press/v97/liu19d/liu19d.pdf) | [Code](https://github.com/smloracle/smloracle), by Weiwei Liu |
 
@@ -81,7 +83,7 @@
 ----
 ## Text Classification
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | ACL |[Large-Scale Multi-Label Text Classification on EU Legislation](http://pages.cs.aueb.gr/~rulller/docs/lmtc_eu_Legislation_acl_2019.pdf) | Eur-Lex 4.3K, [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/acl/ChalkidisFMA19) |
 |2019 | arXiv  | [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf) | [code](https://github.com/OctoberChang/X-BERT) by [Yiming Yang](https://scholar.google.com/citations?hl=en&user=MlZq4XwAAAAJ&view_op=list_works&sortby=pubdate), Inderjit Dhillon |
@@ -90,7 +92,7 @@
 
 ### XML Seminar
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | Dagstuhl Seminar 18291  | [Extreme Classification](http://manikvarma.org/pubs/bengio19.pdf) | |
 
