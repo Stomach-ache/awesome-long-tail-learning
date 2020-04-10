@@ -21,7 +21,7 @@
 |2018           | WWW | [Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising](http://manikvarma.org/pubs/prabhu18b.pdf) | Label tree...by Manik Varma |
 |2016 | ICML | [Extreme F-Measure Maximization using Sparse Probability Estimates](https://pdfs.semanticscholar.org/b148/75d1e1850121d8720c39f853af5f455ecc44.pdf) | Label tree |
 |2016 | KDD | [Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking & Other Missing Label Applications](http://manikvarma.org/pubs/jain16.pdf) | Instance tree |
-|2014 | KDD | [A Fast, Accurate and Stable Tree-classifier for eXtreme Multi-label Learning](http://manikvarma.org/pubs/prabhu14.pdf) | Instance tree |
+|2014 | KDD | [A Fast, Accurate and Stable Tree-classifier for eXtreme Multi-label Learning](http://manikvarma.org/pubs/prabhu14.pdf) | Instance tree, [python implementation](https://github.com/Refefer/fastxml) |
 |2013 | ICML | [Label Partitioning For Sublinear Ranking](http://www.thespermwhale.com/jaseweston/papers/label_partitioner.pdf) | Label tree |
 |2013 | WWW | [Multi-Label Learning with Millions of Labels: Recommending Advertiser Bid Phrases for Web Pages](http://manikvarma.org/pubs/agrawal13.pdf) | Instance tree, Random Forest, Gini Index |
 |2011 | NeurIPS | [Efficient label tree learning for large scale object recognition](http://vision.stanford.edu/pdf/NIPS2011_0391.pdf) | Label tree, multi-class |
