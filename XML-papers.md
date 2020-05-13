@@ -78,8 +78,10 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2020           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
 |2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/0002MZWGY19), by CUHK |
 |2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) |
+
 
 ----
 ## Text Classification
