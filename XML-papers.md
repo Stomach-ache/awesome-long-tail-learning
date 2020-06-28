@@ -81,6 +81,7 @@
 |2020 | ICLR | Decoupling representation and classifier for long-tailed recognition | |
 |2020 | CVPR | Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition | |
 |2020           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
+|2019 | NIPS | Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss | |
 |2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/0002MZWGY19), by CUHK |
 |2018 | - | [iNatrualist. The inaturalist 2018 competition dataset](https://github.com/visipedia/inat_comp/tree/master/2018) | long-tailed dataset |
 |2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
