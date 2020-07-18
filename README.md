@@ -12,3 +12,5 @@ The information about papers including:
 7. Bibtex
 
 ### XMC Datasets [link](https://github.com/DanqingZ/xmc_dataset)
+
+### Extreme Classification Workshops [link](http://manikvarma.org/events/XC20/index.html)
