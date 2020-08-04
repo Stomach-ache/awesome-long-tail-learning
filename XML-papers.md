@@ -62,7 +62,7 @@
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2020 | arXiv | [Extreme Multi-label Classification from Aggregated Labels](https://arxiv.org/pdf/2004.00198.pdf) | by Inderjit Dhillon. This paper considers multi-instance learning in XML |
-| 2020 | arXiv | [Unbiased Loss Functions for Extreme Classification With Missing Labels](https://arxiv.org/pdf/2007.00237.pdf) | by Rohit Babbar|
+| 2020 | arXiv | [Unbiased Loss Functions for Extreme Classification With Missing Labels](https://arxiv.org/pdf/2007.00237.pdf) | by Rohit Babbar. Missing labels|
 
 ----
 
