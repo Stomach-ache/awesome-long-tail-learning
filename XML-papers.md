@@ -2,6 +2,7 @@
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2020 |arXiv | [SOLAR: Sparse Orthogonal Learned and Random Embeddings](https://arxiv.org/pdf/2008.13225.pdf) | |
 |2020 | ICLR | [EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION](https://arxiv.org/pdf/2002.06298.pdf) | |
 |2019 | AISTATS | [Stochastic Negative Mining for Learning with Large Output Spaces](http://www.sanjivk.com/SNM_AISTATS19.pdf) | by Google|
 |2019 | NeurIPS | [Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products](https://openreview.net/pdf?id=BkgViHSxLH) | Rice University, [bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1910-13830) |
