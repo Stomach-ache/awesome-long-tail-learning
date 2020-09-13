@@ -2,6 +2,7 @@
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2020 | KDD | [Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342?casa_token=ZGu6l5eQUeYAAAAA:ehAedQ8l6p0WRVX7l81E6lRYQPlqnTwx9iEJzXqO46gE5q23JxamlNMwcFKPjFoC38-EsqcVl-kC2w) | Applied Data Science Track|
 |2020 |arXiv | [SOLAR: Sparse Orthogonal Learned and Random Embeddings](https://arxiv.org/pdf/2008.13225.pdf) | |
 |2020 | ICLR | [EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION](https://arxiv.org/pdf/2002.06298.pdf) | |
 |2019 | AISTATS | [Stochastic Negative Mining for Learning with Large Output Spaces](http://www.sanjivk.com/SNM_AISTATS19.pdf) | by Google|
