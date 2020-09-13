@@ -47,10 +47,11 @@
 |2009 | NeurIPS | Multi-Label Prediction via Compressed Sensing |
 |2008 | KDD | Extracting Shared Subspaces for Multi-label Classification |
 
+----
 
 # Binary Relevance
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | Machine learning | [Data Scarcity, Robustness and Extreme Multi-label Classification](https://link.springer.com/article/10.1007/s10994-019-05791-5) | |
 |2019 | WSDM | [Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches](http://manikvarma.org/pubs/jain19.pdf) |
@@ -60,6 +61,7 @@
 |2016 | ICML | [PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf) |
 
 ----
+
 # Noval XML Settings
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
@@ -81,7 +83,7 @@
 
 ## Tail-label in Computer Vision
 
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2020 | ICLR | Decoupling representation and classifier for long-tailed recognition | |
 |2020 | CVPR | Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition | |
