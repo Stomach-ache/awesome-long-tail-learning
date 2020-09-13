@@ -52,6 +52,7 @@
 
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2019 | Machine learning | [Data Scarcity, Robustness and Extreme Multi-label Classification](https://link.springer.com/article/10.1007/s10994-019-05791-5) | |
 |2019 | WSDM | [Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches](http://manikvarma.org/pubs/jain19.pdf) |
 |2017 | KDD | PPDSparse: A Parallel Primal-Dual Sparse Method for Extreme Classification |
 |2017 | AISTATS | Label Filters for Large Scale Multilabel Classification |
@@ -116,17 +117,3 @@
 1. https://arxiv.org/pdf/1901.00248.pdf
 2. http://www.iith.ac.in/~saketha/research/AkshatMTP2018.pdf
 3. http://manikvarma.org/pubs/bengio19.pdf
-
-
-### Papers To Be Categorized
-[07]     F. Tai, and H. Lin, Multi-label Classification with Principle Label Space Transformation , in Neural Computation, 2012.
-[10]     C. Ferng, and H. Lin, Multi-label Classification with Error-correcting Codes, in ACML, 2011.
-[14]     P. Mineiro, and N. Karampatziakis, Fast Label Embeddings via Randomized Linear Algebra, Preprint, 2015.
-[15]     N. Karampatziakis, and P. Mineiro, Scalable Multilabel Prediction via Randomized Methods, Preprint, 2015.
-[16]     K. Balasubramanian, and G. Lebanon, The Landmark Selection Method for Multiple Output Prediction , Preprint, 2012.
-[17]     M. Cisse, N. Usunier, T. Artieres, and P. Gallinari, Robust Bloom Filters for Large Multilabel Classification Tasks , in NIPS, 2013.
-[18]     B. Hariharan, S. Vishwanathan, and M. Varma, Efficient max-margin multi-label classification with applications to zero-shot learning, in Machine Learning Journal, 2012.
-[20]     I. Katakis, G. Tsoumakas, and I. Vlahavas, Multilabel text classification for automated tag suggestion, in ECML/PKDD Discovery Challenge, 2008.
-[23]     A. Zubiaga, Enhancing navigation on wikipedia with social tags, Preprint, 2009.
-[27]     E. L. Mencia, and J. Furnkranz, Efficient pairwise multilabel classification for large-scale problems in the legal domain in ECML/PKDD, 2008.
-[39]     R. Babbar, and B. Schölkopf, Data Scarcity, Robustness and Extreme Multi-label Classification in Machine Learning Journal and European Conference on Machine Learning, 2019.
