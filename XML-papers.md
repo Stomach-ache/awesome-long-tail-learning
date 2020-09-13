@@ -96,6 +96,7 @@
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2020 | arXiv | [GNN-XML: Graph Neural Networks for Extreme Multi-label Text Classification](https://www.researchgate.net/profile/Shiliang_Sun2/publication/343537175_GNN-XML_Graph_Neural_Networks_for_Extreme_Multi-label_Text_Classification/links/5f2f9f16299bf13404b13cde/GNN-XML-Graph-Neural-Networks-for-Extreme-Multi-label-Text-Classification.pdf) | |
 |2020 | ICML | [Pretrained Generalized Autoregressive Model with Adaptive Probabilistic Label Clusters for Extreme Multi-label Text Classification](https://proceedings.icml.cc/static/paper_files/icml/2020/807-Paper.pdf) | [code](https://github.com/huiyegit/APLC_XLNet) |
 |2019 | ACL |[Large-Scale Multi-Label Text Classification on EU Legislation](http://pages.cs.aueb.gr/~rulller/docs/lmtc_eu_Legislation_acl_2019.pdf) | Eur-Lex 4.3K, [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/acl/ChalkidisFMA19) |
 |2019 | arXiv  | [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf) | [code](https://github.com/OctoberChang/X-BERT) by [Yiming Yang](https://scholar.google.com/citations?hl=en&user=MlZq4XwAAAAJ&view_op=list_works&sortby=pubdate), Inderjit Dhillon |
