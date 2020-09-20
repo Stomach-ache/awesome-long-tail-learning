@@ -9,7 +9,7 @@
 |2019 | NeurIPS | [Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products](https://openreview.net/pdf?id=BkgViHSxLH) | Rice University, [bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1910-13830) |
 |2019     | arXiv | [An Embarrassingly Simple Baseline for eXtreme Multi-label Prediction](https://arxiv.org/pdf/1912.08140.pdf) | |
 |2019			|    arXiv   |    [Accelerating Extreme Classification via Adaptive Feature Agglomeration](https://arxiv.org/pdf/1905.11769.pdf)  |   [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/JalanK19), authors from IIT    |
-|2019     | SDM     | [Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization](https://www.cs.ubc.ca/~mpf/pdfs/2019-one-vs-all.pdf) | [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/sdm/FangCHF19) |
+|2019     | SDM     | [Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization](https://www.cs.ubc.ca/~mpf/pdfs/2019-one-vs-all.pdf) | [code](https://github.com/fanghgit/XMC) [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/sdm/FangCHF19) |
 
 ----
 # Tree-based Methods
