@@ -70,6 +70,7 @@
 |2020 | arXiv | [Extreme Multi-label Classification from Aggregated Labels](https://arxiv.org/pdf/2004.00198.pdf) | by Inderjit Dhillon. This paper considers multi-instance learning in XML |
 | 2020 | arXiv | [Unbiased Loss Functions for Extreme Classification With Missing Labels](https://arxiv.org/pdf/2007.00237.pdf) | by Rohit Babbar. Missing labels|
 | 2020 | ICML | [Deep Streaming Label Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/230-Paper.pdf) | [code](https://github.com/DSLLcode/DSLL), by Dacheng Tao, streaming multi-label learning |
+| 2018 | JMLR | [Multi-label kNN Classifier with Self Adjusting Memory for Drifting Data Streams](http://proceedings.mlr.press/v94/roseberry18a/roseberry18a.pdf) | streaming data |
 | 2016 | arXiv | [Streaming Label Learning for Modeling Labels on the Fly](https://arxiv.org/pdf/1604.05449.pdf) | by Dacheng Tao, streaming multi-label learning |
 
 ----
