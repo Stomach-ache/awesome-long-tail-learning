@@ -40,6 +40,7 @@
 |2019 | AAAI | [Distributional Semantics Meets Multi-Label Learning](https://aaai.org/ojs/index.php/AAAI/article/view/4260) | [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/aaai/0001WNK0R19)|
 |2019 | arXiv | [Ranking-Based Autoencoder for Extreme Multi-label Classification](https://arxiv.org/pdf/1904.05937.pdf) | |
 |2019 | NeurIPS | [Breaking the Glass Ceiling for Embedding-Based Classifiers for Large Ouput Spaces](https://ai.google/research/pubs/pub48660/) | by Google Research|
+|2017 | KDD | [AnnexML: Approximate Nearest Neighbor Search for Extreme Multi-label Classification](https://dl.acm.org/doi/pdf/10.1145/3097983.3097987?casa_token=RuuvNarln6EAAAAA:CGN8q-mIboNoQrXybH-pFWF9VboN0cVjdJcTfoYDCEju-ZGriu5MqTDY2jJ-_DOc3fMO4nQftYAIsg) | |
 |2015 | NeurIPS | [Sparse Local Embeddings for Extreme Multi-label Classification](http://manikvarma.org/pubs/bhatia15.pdf) | |
 |2014 | ICML | Large-scale Multi-label Learning with Missing Labels |
 |2014 | ICML | Multi-label Classification via Feature-aware Implicit Label Space Encoding |
