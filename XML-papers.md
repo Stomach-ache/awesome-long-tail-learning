@@ -89,6 +89,7 @@
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2020 | arXiv | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google, ICLR2021 submission |
 |2020 | ICLR | Decoupling representation and classifier for long-tailed recognition | |
 |2020 | CVPR | Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition | |
 |2020           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
