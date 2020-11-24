@@ -136,3 +136,4 @@
 1. https://arxiv.org/pdf/1901.00248.pdf
 2. http://www.iith.ac.in/~saketha/research/AkshatMTP2018.pdf
 3. http://manikvarma.org/pubs/bengio19.pdf
+4. [The Emerging Trends of Multi-Label Learning](https://arxiv.org/pdf/2011.11197.pdf)
