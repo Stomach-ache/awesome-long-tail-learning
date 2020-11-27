@@ -123,6 +123,11 @@
 |2015 | KDD | [Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning](https://www.researchgate.net/publication/299970511_Discovering_and_Exploiting_Deterministic_Label_Relationships_in_Multi-Label_Learning) | |
 |2010 | KDD | [Multi-Label Learning by Exploiting Label Dependency](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.4327&rep=rep1&type=pdf) | |
 
+## Long-tailed Continual Learning
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+| 2020 | ECCV | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | |
+
 
 ### XML Seminar
 
