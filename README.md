@@ -4,10 +4,10 @@ This repo pays specially attention to the long-tailed distribution, where labels
 - Long-tailed Distribution
   * [Long-tailed Distribution in Computer Vision](#Long-tailed-Distribution-in-Computer-Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
-    + [Speed-up and Compression](#Speed-up-and-Compression)
+    + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
     + [Embedding-based Methods](#Embedding-based-Methods)
-    + [Binary Relevance](#Binary-Relevance)
+    + [Speed-up and Compression](#Speed-up-and-Compression)
     + [Noval XML Setups](#Noval-XML-Settings)
     + [Theoritical Studies](#Theoritical-Studies)
     + [Text Classification](#Text-Classification)
@@ -41,20 +41,20 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 # eXtreme Multi-label Learning
 
-## Speed-up and Compression
+
+## Binary Relevance
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2020 | KDD | [Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342?casa_token=ZGu6l5eQUeYAAAAA:ehAedQ8l6p0WRVX7l81E6lRYQPlqnTwx9iEJzXqO46gE5q23JxamlNMwcFKPjFoC38-EsqcVl-kC2w) | Applied Data Science Track|
-|2020 |arXiv | [SOLAR: Sparse Orthogonal Learned and Random Embeddings](https://arxiv.org/pdf/2008.13225.pdf) | |
-|2020 | ICLR | [EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION](https://arxiv.org/pdf/2002.06298.pdf) | |
-|2019 | AISTATS | [Stochastic Negative Mining for Learning with Large Output Spaces](http://www.sanjivk.com/SNM_AISTATS19.pdf) | by Google|
-|2019 | NeurIPS | [Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products](https://openreview.net/pdf?id=BkgViHSxLH) | Rice University, [bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1910-13830) |
-|2019     | arXiv | [An Embarrassingly Simple Baseline for eXtreme Multi-label Prediction](https://arxiv.org/pdf/1912.08140.pdf) | |
-|2019			|    arXiv   |    [Accelerating Extreme Classification via Adaptive Feature Agglomeration](https://arxiv.org/pdf/1905.11769.pdf)  |   [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/JalanK19), authors from IIT    |
-|2019     | SDM     | [Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization](https://www.cs.ubc.ca/~mpf/pdfs/2019-one-vs-all.pdf) | [code](https://github.com/fanghgit/XMC) [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/sdm/FangCHF19) |
+|2019 | Machine learning | [Data Scarcity, Robustness and Extreme Multi-label Classification](https://link.springer.com/article/10.1007/s10994-019-05791-5) | |
+|2019 | WSDM | [Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches](http://manikvarma.org/pubs/jain19.pdf) |
+|2017 | KDD | PPDSparse: A Parallel Primal-Dual Sparse Method for Extreme Classification |
+|2017 | AISTATS | Label Filters for Large Scale Multilabel Classification |
+|2016 | WSDM | DiSMEC - Distributed Sparse Machines for Extreme Multi-label Classification |
+|2016 | ICML | [PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf) |
 
 ----
+
 ## Tree-based Methods
 
 | Year       | Venue       | Title  | Remark
@@ -96,16 +96,18 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ----
 
-## Binary Relevance
+## Speed-up and Compression
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2019 | Machine learning | [Data Scarcity, Robustness and Extreme Multi-label Classification](https://link.springer.com/article/10.1007/s10994-019-05791-5) | |
-|2019 | WSDM | [Slice: Scalable linear extreme classifiers trained on 100 million labels for related searches](http://manikvarma.org/pubs/jain19.pdf) |
-|2017 | KDD | PPDSparse: A Parallel Primal-Dual Sparse Method for Extreme Classification |
-|2017 | AISTATS | Label Filters for Large Scale Multilabel Classification |
-|2016 | WSDM | DiSMEC - Distributed Sparse Machines for Extreme Multi-label Classification |
-|2016 | ICML | [PD-Sparse: A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf) |
+|2020 | KDD | [Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342?casa_token=ZGu6l5eQUeYAAAAA:ehAedQ8l6p0WRVX7l81E6lRYQPlqnTwx9iEJzXqO46gE5q23JxamlNMwcFKPjFoC38-EsqcVl-kC2w) | Applied Data Science Track|
+|2020 |arXiv | [SOLAR: Sparse Orthogonal Learned and Random Embeddings](https://arxiv.org/pdf/2008.13225.pdf) | |
+|2020 | ICLR | [EXTREME CLASSIFICATION VIA ADVERSARIAL SOFTMAX APPROXIMATION](https://arxiv.org/pdf/2002.06298.pdf) | |
+|2019 | AISTATS | [Stochastic Negative Mining for Learning with Large Output Spaces](http://www.sanjivk.com/SNM_AISTATS19.pdf) | by Google|
+|2019 | NeurIPS | [Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products](https://openreview.net/pdf?id=BkgViHSxLH) | Rice University, [bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1910-13830) |
+|2019     | arXiv | [An Embarrassingly Simple Baseline for eXtreme Multi-label Prediction](https://arxiv.org/pdf/1912.08140.pdf) | |
+|2019			|    arXiv   |    [Accelerating Extreme Classification via Adaptive Feature Agglomeration](https://arxiv.org/pdf/1905.11769.pdf)  |   [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/JalanK19), authors from IIT    |
+|2019     | SDM     | [Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization](https://www.cs.ubc.ca/~mpf/pdfs/2019-one-vs-all.pdf) | [code](https://github.com/fanghgit/XMC) [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/sdm/FangCHF19) |
 
 ----
 
