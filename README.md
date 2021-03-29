@@ -4,14 +4,14 @@ This repo pays specially attention to the long-tailed distribution, where labels
 - Long-tailed Distribution
   * [Long-tailed Distribution in Computer Vision](#Long-tailed-Distribution-in-Computer-Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
-    + [Speed-up and Compression](##Speed-up-and-Compression)
-    + [Tree-based Methods](##Tree-based-Methods)
-    + [Embedding-based Methods](##Embedding-based-Methods)
-    + [Binary Relevance](##Binary-Relevance)
-    + [Noval XML Setups](##Noval-XML-Settings)
-    + [Theoritical Studies](##Theoritical-Studies)
-    + [Text Classification](##Text-Classification)
-    + [Others](##Others)
+    + [Speed-up and Compression](#Speed-up-and-Compression)
+    + [Tree-based Methods](#Tree-based-Methods)
+    + [Embedding-based Methods](#Embedding-based-Methods)
+    + [Binary Relevance](#Binary-Relevance)
+    + [Noval XML Setups](#Noval-XML-Settings)
+    + [Theoritical Studies](#Theoritical-Studies)
+    + [Text Classification](#Text-Classification)
+    + [Others](#Others)
   
 
 
