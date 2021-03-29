@@ -18,7 +18,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 <!-- toc -->
 
 
-## Long-tailed Distribution in Computer Vision
+# Long-tailed Distribution in Computer Vision
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
