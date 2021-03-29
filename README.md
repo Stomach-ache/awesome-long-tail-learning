@@ -1,5 +1,5 @@
 - [Long-tailed Distribution](#Long-tailed-Distribution)
-  * [Long-tailed Distribution in Computer Vision](#Long-tailed Distribution in Computer Vision)
+  * [Long-tailed Distribution in Computer Vision](##Long-tailed Distribution in Computer Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
     + [Speed-up and Compression](##Speed-up-and-Compression)
     + [Tree-based Methods](##Tree-based-Methods)
