@@ -1,19 +1,39 @@
 - [Long-tailed Distribution](#Long-tailed-Distribution)
+  * [Long-tailed Distribution in Computer Vision](#Long-tailed Distribution in Computer Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+    + [Speed-up and Compression](##Speed-up-and-Compression)
+    + [Tree-based Methods](##Tree-based-Methods)
+    + [Embedding-based Methods](##Embedding-based-Methods)
+    + [Binary Relevance](##Binary-Relevance)
+    + [Noval XML Setups](##Noval-XML-Settings)
+    + [Theoritical Studies](##Theoritical-Studies)
+    + [Text Classification](##Text-Classification)
+    + [Others](##Others)
+  
 
+<!-- toc -->
 
 # Long-tailed Distribution
 
-> This is a fixture to test heading levels
+## Long-tailed Distribution in Computer Vision
 
-<!-- toc -->
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google |
+|2020 | arXiv | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | by Zi-Wei Liu |
+|2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
+|2020 | arXiv | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google, ICLR2021 submission |
+|2020 | ICLR | Decoupling representation and classifier for long-tailed recognition | |
+|2020 | CVPR | Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition | |
+|2020           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
+|2019 | NIPS | Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss | |
+|2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/0002MZWGY19), by CUHK |
+|2018 | - | [iNatrualist. The inaturalist 2018 competition dataset](https://github.com/visipedia/inat_comp/tree/master/2018) | long-tailed dataset |
+|2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
+|2017 | NIPS | Learning to model the tail | |
+
+----
+
 
 
 # eXtreme Multi-label Learning
@@ -105,24 +125,6 @@
 
 ----
 
-## Long-tailed Distribution in Computer Vision
-
-| Year       | Venue     | Title  | Remark
-| ------------- |:-------------:| --------------:|------------:|
-|2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google |
-|2020 | arXiv | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | by Zi-Wei Liu |
-|2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
-|2020 | arXiv | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google, ICLR2021 submission |
-|2020 | ICLR | Decoupling representation and classifier for long-tailed recognition | |
-|2020 | CVPR | Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition | |
-|2020           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
-|2019 | NIPS | Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss | |
-|2019           | Arxiv  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/smloracle/smloracle), [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/0002MZWGY19), by CUHK |
-|2018 | - | [iNatrualist. The inaturalist 2018 competition dataset](https://github.com/visipedia/inat_comp/tree/master/2018) | long-tailed dataset |
-|2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
-|2017 | NIPS | Learning to model the tail | |
-
-----
 ## Text Classification
 
 | Year       | Venue     | Title  | Remark
@@ -137,14 +139,17 @@
 |2018 | NeurIPS | A no-regret generalization of hierarchical softmax to extreme multi-label classification | [code](https://github.com/mwydmuch/extremeText), [PLT code](https://github.com/mwydmuch/napkinXC) |
 |2017 | SIGIR | [Deep Learning for Extreme Multi-label Text Classification](http://nyc.lti.cs.cmu.edu/yiming/Publications/jliu-sigir17.pdf) | by Yiming Yang at CMU, [bibtex](https://dblp.uni-trier.de/rec/bibtex0/conf/sigir/LiuCWY17)|
 
-## Label Correlation
+
+## Others
+
+### Label Correlation
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2019 | ICML | [DL2: Training and Querying Neural Networks with Logic](http://proceedings.mlr.press/v97/fischer19a/fischer19a.pdf) | |
 |2015 | KDD | [Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning](https://www.researchgate.net/publication/299970511_Discovering_and_Exploiting_Deterministic_Label_Relationships_in_Multi-Label_Learning) | |
 |2010 | KDD | [Multi-Label Learning by Exploiting Label Dependency](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.4327&rep=rep1&type=pdf) | |
 
-## Long-tailed Continual Learning
+### Long-tailed Continual Learning
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | ECCV | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | |
