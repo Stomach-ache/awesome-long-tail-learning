@@ -1,5 +1,5 @@
 - [Long-tailed Distribution](#Long-tailed-Distribution)
-  * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
+  * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning-(XML))
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
