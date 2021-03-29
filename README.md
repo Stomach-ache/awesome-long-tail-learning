@@ -1,4 +1,7 @@
-- [Long-tailed Distribution](#Long-tailed-Distribution)
+This repo pays specially attention on long-tailed distribution, where labels follows a long-tailed or power-law distribution in the training dataset or/and test datast. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
+
+
+- [Long-tailed Distribution]
   * [Long-tailed Distribution in Computer Vision](##Long-tailed-Distribution-in-Computer-Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
     + [Speed-up and Compression](##Speed-up-and-Compression)
@@ -11,9 +14,9 @@
     + [Others](##Others)
   
 
+
 <!-- toc -->
 
-# Long-tailed Distribution
 
 ## Long-tailed Distribution in Computer Vision
 
@@ -139,6 +142,7 @@
 |2018 | NeurIPS | A no-regret generalization of hierarchical softmax to extreme multi-label classification | [code](https://github.com/mwydmuch/extremeText), [PLT code](https://github.com/mwydmuch/napkinXC) |
 |2017 | SIGIR | [Deep Learning for Extreme Multi-label Text Classification](http://nyc.lti.cs.cmu.edu/yiming/Publications/jliu-sigir17.pdf) | by Yiming Yang at CMU, [bibtex](https://dblp.uni-trier.de/rec/bibtex0/conf/sigir/LiuCWY17)|
 
+----
 
 ## Others
 
