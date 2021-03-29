@@ -176,6 +176,6 @@ This repo pays specially attention to the long-tailed distribution, where labels
 4. [The Emerging Trends of Multi-Label Learning](https://arxiv.org/pdf/2011.11197.pdf)
 
 
-### XMC Datasets [link](https://github.com/DanqingZ/xmc_dataset)
+### XML Datasets [link](https://github.com/DanqingZ/xmc_dataset)
 
 ### Extreme Classification Workshops [link](http://manikvarma.org/events/XC20/index.html)
