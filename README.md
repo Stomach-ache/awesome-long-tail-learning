@@ -179,6 +179,11 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | ECCV | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | |
 
+### Train/Test Split
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 | Arxiv | [Stratified Sampling for Extreme Multi-Label Data](https://arxiv.org/pdf/2103.03494.pdf) | | 
+
 
 ### XML Seminar
 
