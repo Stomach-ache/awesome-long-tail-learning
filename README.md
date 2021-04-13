@@ -22,6 +22,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | Arxiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | by Google Research |
 |2021 | Arxiv| [Distributional Robustness Loss for Long-tail Learning](https://arxiv.org/pdf/2104.03066.pdf) | |
 |2021 | Arxiv| [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
