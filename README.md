@@ -26,9 +26,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ### Type of Long-Tail Learning Methods
 
-| Type        | `TST`          | `IS`           | `CBS`                   | `CLW`                 | `NC`                  | `TL`              | `DA`     |
+| Type        | `TST`          | `IS`           | `CBS`                   | `CLW`                 | `NC`                  | `ENS`              | `DA`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Meaning | Two-Stage Training | Instance Sampling | Class-Balanced Sampling | Class-Level Weighting | Normalized Classifier | Transfer Learning | Data Augmentation |
+| Meaning | Two-Stage Training | Instance Sampling | Class-Balanced Sampling | Class-Level Weighting | Normalized Classifier | Ensemble | Data Augmentation |
 
 
 
@@ -41,7 +41,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | CVPR| [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | `TST` |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
 |2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google |
-|2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | by Zi-Wei Liu |
+|2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | `ENS`+`NC`, [Code](https://github.com/frank-xwang/RIDE-LongTailRecognition) by Zi-Wei Liu |
 |2021 | ICLR | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google |
 |2021 | AAAI | [Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | |
 |2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
