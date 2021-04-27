@@ -36,9 +36,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | ------------- |:-------------:| --------------:|------------:|
 |2021 | Arxiv | [Procrustean Training for Imbalanced Deep Learning](https://arxiv.org/pdf/2104.01769.pdf) | |
 |2021 | Arxiv| [Balanced Knowledge Distillation for Long-tailed Learning](https://arxiv.org/pdf/2104.10510.pdf) | `CBS`+`IS`, [Code](https://github.com/EricZsy/BalancedKnowledgeDistillation)|
-|2021 | Arxiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | `TST`+`NC`+`CBS`+`IS`, by Google Research |
+|2021 | Arxiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | `ENS`+`DA`+`IS`, by Google Research |
 |2021 | Arxiv| [Distributional Robustness Loss for Long-tail Learning](https://arxiv.org/pdf/2104.03066.pdf) | `TST`+`CBS` |
-|2021 | CVPR| [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | `DA` |
+|2021 | CVPR| [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | `DA`+`TST` |
 |2021 | CVPR| [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | `TST` |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
 |2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google |
