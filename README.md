@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2021-04-30
+### :high_brightness: Updated 2021-05-04
 
 
 - Long-tailed Distribution
@@ -42,6 +42,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | CVPR| [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | `TST` |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
 |2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google |
+|2021 | ICLR | [HETEROSKEDASTIC AND IMBALANCED DEEP LEARNING WITH ADAPTIVE REGULARIZATION](https://openreview.net/pdf?id=mEdwVCRJuX4) | [Code](https://github.com/kaidic/HAR) |
 |2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | `ENS`+`NC`, [Code](https://github.com/frank-xwang/RIDE-LongTailRecognition), by Zi-Wei Liu |
 |2021 | ICLR | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google |
 |2021 | AAAI | [Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | |
