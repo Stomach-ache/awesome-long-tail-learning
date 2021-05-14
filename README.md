@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2021-05-04
+### :high_brightness: Updated 2021-05-14
 
 
 - Long-tailed Distribution
@@ -34,6 +34,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | Arxiv | [Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition](https://arxiv.org/pdf/2105.00127.pdf) | |
 |2021 | Arxiv | [Procrustean Training for Imbalanced Deep Learning](https://arxiv.org/pdf/2104.01769.pdf) | |
 |2021 | Arxiv| [Balanced Knowledge Distillation for Long-tailed Learning](https://arxiv.org/pdf/2104.10510.pdf) | `CBS`+`IS`, [Code](https://github.com/EricZsy/BalancedKnowledgeDistillation)|
 |2021 | Arxiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | `ENS`+`DA`+`IS`, by Google Research |
