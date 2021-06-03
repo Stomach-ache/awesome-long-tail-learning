@@ -6,7 +6,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 
 - Long-tailed Distribution
-  * [Long-tailed Distribution in Computer Vision](#Long-tailed-Distribution-in-Computer-Vision)
+  * [Long-tailed Learning in Computer Vision](#Long-tailed-Learning-in-Computer-Vision)
   * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
     + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
@@ -22,7 +22,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 <!-- toc -->
 
 
-# Long-tailed Distribution in Computer Vision
+# Long-tailed Learning in Computer Vision
 
 ### Type of Long-Tail Learning Methods
 
