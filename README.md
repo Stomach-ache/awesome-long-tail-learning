@@ -7,7 +7,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 - Long-tailed Distribution
   * [Long-tailed Learning in Computer Vision](#Long-tailed-Learning-in-Computer-Vision)
-  * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme Multi-label Learning for Information Retrieval)
+  * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
     + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
     + [Embedding-based Methods](#Embedding-based-Methods)
