@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2021-05-24
+### :high_brightness: Updated 2021-06-03
 
 
 - Long-tailed Distribution
@@ -34,6 +34,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | Arxiv | [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633v2.pdf) |
+|2021 | Arxiv | [Distilling Virtual Examples for Long-tailed Recognition](https://arxiv.org/pdf/2103.15042v1.pdf) |
+|2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094v1.pdf) |
 |2021 |Arxiv | [Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces](https://arxiv.org/pdf/2105.05736.pdf) | by Google |
 |2021 | Arxiv | [Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition](https://arxiv.org/pdf/2105.00127.pdf) | |
 |2021 | Arxiv | [Procrustean Training for Imbalanced Deep Learning](https://arxiv.org/pdf/2104.01769.pdf) | |
@@ -48,6 +51,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | `ENS`+`NC`, [Code](https://github.com/frank-xwang/RIDE-LongTailRecognition), by Zi-Wei Liu |
 |2021 | ICLR | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google |
 |2021 | AAAI | [Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | |
+|2020 | Arxiv| [ELF: An Early-Exiting Framework for Long-Tailed Classification](https://arxiv.org/pdf/2006.11979.pdf) | |
 |2020 | CVPR | [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | |
 |2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
 |2020 | CVPR | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)
