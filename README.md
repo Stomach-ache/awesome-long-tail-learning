@@ -36,6 +36,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2021 | CVPR | [Open World Vision](http://www.cs.cmu.edu/~shuk/open-world-vision.html) | long-tail, open-set, streaming labels|
+|2021 | CVPR | [Learning from Limited and Imperfect Data (L2ID)](https://l2id.github.io/) | label noise, SSL, long-tail |
 
 
 
