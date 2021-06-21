@@ -30,7 +30,16 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Meaning | Two-Stage Training | Instance Sampling | Class-Balanced Sampling | Class-Level Weighting | Normalized Classifier | Ensemble | Data Augmentation |
 
+### Long-Tail Learning Workshops
 
+
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 | CVPR | [Open World Vision](http://www.cs.cmu.edu/~shuk/open-world-vision.html) | |
+
+
+
+### Long-Tail Learning Papers
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
