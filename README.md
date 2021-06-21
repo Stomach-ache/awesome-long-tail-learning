@@ -24,13 +24,13 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 # Long-tailed Learning in Computer Vision
 
-### Type of Long-Tail Learning Methods
+### Type of Long-Tailed Learning Methods
 
 | Type        | `TST`          | `IS`           | `CBS`                   | `CLW`                 | `NC`                  | `ENS`              | `DA`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Meaning | Two-Stage Training | Instance Sampling | Class-Balanced Sampling | Class-Level Weighting | Normalized Classifier | Ensemble | Data Augmentation |
 
-### Long-Tail Learning Workshops
+### Long-Tailed Learning Workshops
 
 
 | Year       | Venue     | Title  | Remark
@@ -40,7 +40,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 
 
-### Long-Tail Learning Papers
+### Long-Tailed Learning Papers
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
