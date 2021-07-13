@@ -103,6 +103,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | KDD | [Extreme Multi-label Learning for Semantic Matching in Product Search](https://arxiv.org/pdf/2106.12657.pdf) | by Amazon, [code](https://github.com/amzn/pecos) |
 |2020 | arXiv | [Probabilistic Label Trees for Extreme Multi-label Classification](https://arxiv.org/pdf/2009.11218.pdf) | PLT survey, [code](https://github.com/busarobi/XMLC) |
 |2020 | arXiv | [Online probabilistic label trees](https://arxiv.org/pdf/2007.04451.pdf) | |
 |2020           | AISTATS  | [LdSM: Logarithm-depth Streaming Multi-label Decision Trees](https://arxiv.org/pdf/1905.10428.pdf) | Instance tree,[c++ code](https://github.com/mmajzoubi/LdSM) |
@@ -178,6 +179,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | ICML | [SiameseXML: Siamese Networks meet Extreme Classifiers with 100M Labels](http://proceedings.mlr.press/v139/dahiya21a.html) | |
 |2020 | KDD | [Correlation Networks for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403151?casa_token=Cl5CVnXgiLYAAAAA:e28yssI46chtVhKl7zUWPW0l6q9SPQ7SXRpr5qujghBNsA2iE_s3D2U-q7DNIjSvDAqRNY6wL_OtOw) | [code](https://github.com/XunGuangxu/CorNet) |
 |2020 | arXiv | [GNN-XML: Graph Neural Networks for Extreme Multi-label Text Classification](https://www.researchgate.net/profile/Shiliang_Sun2/publication/343537175_GNN-XML_Graph_Neural_Networks_for_Extreme_Multi-label_Text_Classification/links/5f2f9f16299bf13404b13cde/GNN-XML-Graph-Neural-Networks-for-Extreme-Multi-label-Text-Classification.pdf) | |
 |2020 | ICML | [Pretrained Generalized Autoregressive Model with Adaptive Probabilistic Label Clusters for Extreme Multi-label Text Classification](https://proceedings.icml.cc/static/paper_files/icml/2020/807-Paper.pdf) | [code](https://github.com/huiyegit/APLC_XLNet) |
