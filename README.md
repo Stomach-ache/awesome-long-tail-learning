@@ -44,6 +44,11 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | CVPR  | [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267.pdf) | |
+|2021 | CVPR  | [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2103.12579.pdf) | |
+|2021 | CVPR  | [Disentangling Label Distribution for Long-tailed Visual Recognition](https://arxiv.org/pdf/2012.00321.pdf) | |
+|2021 | CVPR  | [Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-Balanced Samplings](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf) | |
+|2021 | CVPR  | [Seesaw Loss for Long-Tailed Instance Segmentation](https://arxiv.org/pdf/2008.10032.pdf) | |
 |2021 | ICLR  | [IS LABEL SMOOTHING TRULY INCOMPATIBLE WITH KNOWLEDGE DISTILLATION: AN EMPIRICAL STUDY](https://openreview.net/pdf?id=PObuuGVrGaZ#:~:text=Our%20answer%20is%20No.,the%20predictive%20performance%20of%20students.) | |
 |2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094.pdf) | |
 |2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
