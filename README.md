@@ -44,6 +44,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | ICCV | [Distilling Virtual Examples for Long-tailed Recognition](https://cs.nju.edu.cn/wujx/paper/ICCV2021_DiVE.pdf) |
 |2021 | CVPR  | [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267.pdf) | |
 |2021 | CVPR  | [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2103.12579.pdf) | |
 |2021 | CVPR  | [Disentangling Label Distribution for Long-tailed Visual Recognition](https://arxiv.org/pdf/2012.00321.pdf) | |
@@ -53,7 +54,6 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094.pdf) | |
 |2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
 |2021 | Arxiv | [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633v2.pdf) |
-|2021 | Arxiv | [Distilling Virtual Examples for Long-tailed Recognition](https://arxiv.org/pdf/2103.15042v1.pdf) |
 |2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094v1.pdf) |
 |2021 |Arxiv | [Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces](https://arxiv.org/pdf/2105.05736.pdf) | by Google |
 |2021 | Arxiv | [Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition](https://arxiv.org/pdf/2105.00127.pdf) | |
