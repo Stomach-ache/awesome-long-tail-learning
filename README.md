@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2021-09-27
+### :high_brightness: Updated 2021-10-19
 
 
 - Long-tailed Distribution
@@ -44,6 +44,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | Arxiv | [Self-supervised Learning is More Robust to Dataset Imbalance](https://arxiv.org/pdf/2110.05025.pdf) | |
+|2021 | Arixiv | [Long-tailed Distribution Adaptation](https://arxiv.org/pdf/2110.02686.pdf) | |
 |2021 | Arxiv | [LEARNING FROM LONG-TAILED DATA WITH NOISY LABELS](https://arxiv.org/pdf/2108.11096.pdf) | |
 |2021 | ICCV  | [Self Supervision to Distillation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2109.04075) | |
 |2021 | ICCV | [Distilling Virtual Examples for Long-tailed Recognition](https://cs.nju.edu.cn/wujx/paper/ICCV2021_DiVE.pdf) |
@@ -77,6 +79,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
 |2020 | CVPR | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)
 |2020 | ICLR | [Decoupling representation and classifier for long-tailed recognition](https://openreview.net/pdf?id=r1gRTCVFvB) | [Code](https://github.com/facebookresearch/classifier-balancing) |
+|2020 | NeurIPS | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | |
 |2020 | NeurIPS | [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://papers.nips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) | [Code](https://github.com/bbuing9/DARP) |
 |2020 | NeurIPS | [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/pdf/2006.07529.pdf) | [Code](https://github.com/YyzHarry/imbalanced-semi-self) |
 |2020 | CVPR | [Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | [Code](https://github.com/Megvii-Nanjing/BBN) |
