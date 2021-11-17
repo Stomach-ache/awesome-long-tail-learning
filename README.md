@@ -44,6 +44,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 |Arxiv | [Feature Generation for Long-tail Classification](https://arxiv.org/pdf/2111.05956.pdf) |
+|2021 |Arxiv | [Label-Aware Distribution Calibration for Long-tailed Classification](https://arxiv.org/pdf/2111.04901.pdf)  |
 |2021 | Arxiv | [Self-supervised Learning is More Robust to Dataset Imbalance](https://arxiv.org/pdf/2110.05025.pdf) | |
 |2021 | Arixiv | [Long-tailed Distribution Adaptation](https://arxiv.org/pdf/2110.02686.pdf) | |
 |2021 | Arxiv | [LEARNING FROM LONG-TAILED DATA WITH NOISY LABELS](https://arxiv.org/pdf/2108.11096.pdf) | |
