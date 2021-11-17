@@ -7,6 +7,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 - Long-tailed Distribution
   * [Long-tailed Learning in Computer Vision](#Long-tailed-Learning-in-Computer-Vision)
+  * [Long-Tailed Semi-Supervised Learning](###Long-Tailed-Semi-Supervised-Learning-Papers)
+  * [Long-Tailed Learning with Noisy Labels](###Long-Tailed-Learning-with-Noisy-Labels-Papers)
   * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
     + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
@@ -93,6 +95,25 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ----
 
+
+### Long-Tailed Semi-Supervised Learning Papers
+
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 |NeurIPS | [ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning](https://arxiv.org/abs/2110.10368) |
+
+
+----
+
+
+### Long-Tailed Learning with Noisy Labels Papers
+
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 |Arxiv | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) |
+|2021 |Arxiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) |
+
+----
 
 
 # eXtreme Multi-label Learning for Information Retrieval
