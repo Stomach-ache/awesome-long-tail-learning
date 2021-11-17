@@ -7,8 +7,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 - Long-tailed Distribution
   * [Long-tailed Learning in Computer Vision](#Long-tailed-Learning-in-Computer-Vision)
-  * [Long-Tailed Semi-Supervised Learning](###Long-Tailed-Semi-Supervised-Learning-Papers)
-  * [Long-Tailed Learning with Noisy Labels](###Long-Tailed-Learning-with-Noisy-Labels-Papers)
+  * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning-Papers)
+  * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels-Papers)
   * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
     + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
