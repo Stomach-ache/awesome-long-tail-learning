@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2021-11-17
+### :high_brightness: Updated 2021-12-13
 
 
 - Long-tailed Distribution
@@ -46,6 +46,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 |Arxiv | [HAR: Hardness Aware Reweighting for Imbalanced Datasets](https://poloclub.github.io/papers/21-bigdata-har.pdf)|  |
 |2021 |Arxiv | [Feature Generation for Long-tail Classification](https://arxiv.org/pdf/2111.05956.pdf) |
 |2021 |Arxiv | [Label-Aware Distribution Calibration for Long-tailed Classification](https://arxiv.org/pdf/2111.04901.pdf)  |
 |2021 | Arxiv | [Self-supervised Learning is More Robust to Dataset Imbalance](https://arxiv.org/pdf/2110.05025.pdf) | |
