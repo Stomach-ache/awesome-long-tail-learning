@@ -46,6 +46,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2021 | NeurIPS | [Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling](https://papers.nips.cc/paper/2021/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html) | |
+|2021 | NeurIPS | [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://papers.nips.cc/paper/2021/hash/39ae2ed11b14a4ccb41d35e9d1ba5d11-Abstract.html) | [code](https://github.com/XuZhengzhuo/Prior-LT), mixup+LA |
 |2021 |Arxiv | [HAR: Hardness Aware Reweighting for Imbalanced Datasets](https://poloclub.github.io/papers/21-bigdata-har.pdf)|  |
 |2021 |Arxiv | [Feature Generation for Long-tail Classification](https://arxiv.org/pdf/2111.05956.pdf) |
 |2021 |Arxiv | [Label-Aware Distribution Calibration for Long-tailed Classification](https://arxiv.org/pdf/2111.04901.pdf)  |
