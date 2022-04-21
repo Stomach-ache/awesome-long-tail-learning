@@ -2,11 +2,11 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2022-03-02
+### :high_brightness: Updated 2022-04-21
 
 
 - Long-tailed Distribution
-  * [Long-tailed Learning in Computer Vision](#Long-tailed-Learning-in-Computer-Vision)
+  * [Long-tailed Learning](#Long-tailed-Learning)
   * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning-Papers)
   * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels-Papers)
   * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
@@ -24,7 +24,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 <!-- toc -->
 
 
-# Long-tailed Learning in Computer Vision
+# Long-tailed Learning
 
 ### Type of Long-Tailed Learning Methods
 
@@ -41,8 +41,14 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | CVPR | [Learning from Limited and Imperfect Data (L2ID)](https://l2id.github.io/) | label noise, SSL, long-tail |
 
 
+### Long-Tailed Regression Papers
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2021 | OpenReview | [LIFTING IMBALANCED REGRESSION WITH SELF- SUPERVISED LEARNING](https://openreview.net/pdf?id=8Dhw-NmmwT3) | iclr rejected |
+|2021 | ICML | [Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | [code](https://github.com/YyzHarry/imbalanced-regression) |
 
-### Long-Tailed Learning Papers
+
+### Long-Tailed Classification Papers
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
@@ -67,7 +73,6 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | ICLR  | [Exploring balanced feature spaces for representation learning](https://openreview.net/pdf?id=OqtLIabPTit) | |
 |2021 | ICLR  | [IS LABEL SMOOTHING TRULY INCOMPATIBLE WITH KNOWLEDGE DISTILLATION: AN EMPIRICAL STUDY](https://openreview.net/pdf?id=PObuuGVrGaZ#:~:text=Our%20answer%20is%20No.,the%20predictive%20performance%20of%20students.) | |
 |2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094.pdf) | |
-|2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
 |2021 | Arxiv | [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633v2.pdf) |
 |2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094v1.pdf) |
 |2021 |Arxiv | [Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces](https://arxiv.org/pdf/2105.05736.pdf) | by Google |
@@ -79,7 +84,6 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | CVPR| [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | `DA`+`TST`, [Code](https://github.com/Jia-Research-Lab/MiSLAS) |
 |2021 | CVPR| [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | `TST` |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
-|2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google, [Code](https://github.com/google-research/crest), Tensorflow |
 |2021 | ICLR | [HETEROSKEDASTIC AND IMBALANCED DEEP LEARNING WITH ADAPTIVE REGULARIZATION](https://openreview.net/pdf?id=mEdwVCRJuX4) | [Code](https://github.com/kaidic/HAR) |
 |2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | `ENS`+`NC`, [Code](https://github.com/frank-xwang/RIDE-LongTailRecognition), by Zi-Wei Liu |
 |2021 | ICLR | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google |
@@ -91,7 +95,6 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2020 | CVPR | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)
 |2020 | ICLR | [Decoupling representation and classifier for long-tailed recognition](https://openreview.net/pdf?id=r1gRTCVFvB) | [Code](https://github.com/facebookresearch/classifier-balancing) |
 |2020 | NeurIPS | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | |
-|2020 | NeurIPS | [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://papers.nips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) | [Code](https://github.com/bbuing9/DARP) |
 |2020 | NeurIPS | [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/pdf/2006.07529.pdf) | [Code](https://github.com/YyzHarry/imbalanced-semi-self) |
 |2020 | CVPR | [Bbn: Bilateral-branch network with cumulative learning for long-tailed visual recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | [Code](https://github.com/Megvii-Nanjing/BBN) |
 |2019 | NeurIPS | [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | [Code](https://github.com/kaidic/LDAM-DRW) |
@@ -110,7 +113,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2022 | ICLR | [THE RICH GET RICHER: DISPARATE IMPACT OF SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=DXPftn5kjQK) | |
 |2022 | ICLR | [ON NON-RANDOM MISSING LABELS IN SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=6yVvwR9H9Oj) | |
 |2021 |NeurIPS | [ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning](https://arxiv.org/abs/2110.10368) |
-
+|2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google, [Code](https://github.com/google-research/crest), Tensorflow |
+|2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
+|2020 | NeurIPS | [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://papers.nips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) | [Code](https://github.com/bbuing9/DARP) |
 
 ----
 
