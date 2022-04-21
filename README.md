@@ -44,6 +44,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 ### Long-Tailed Regression Papers
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | CVPR | [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/pdf/2203.16427.pdf) | |
 |2021 | OpenReview | [LIFTING IMBALANCED REGRESSION WITH SELF- SUPERVISED LEARNING](https://openreview.net/pdf?id=8Dhw-NmmwT3) | iclr rejected |
 |2021 | ICML | [Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | [code](https://github.com/YyzHarry/imbalanced-regression) |
 
