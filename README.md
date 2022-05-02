@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2022-04-21
+### :high_brightness: Updated 2022-05-02
 
 
 - Long-tailed Distribution
@@ -114,7 +114,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | ------------- |:-------------:| --------------:|------------:|
 |2022 | ICLR | [THE RICH GET RICHER: DISPARATE IMPACT OF SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=DXPftn5kjQK) | |
 |2022 | ICLR | [ON NON-RANDOM MISSING LABELS IN SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=6yVvwR9H9Oj) | |
+|2022 | OpenReview | [UNIFYING DISTRIBUTION ALIGNMENT AS A LOSS FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=HHUSDJb_4KJ)
 |2021 |NeurIPS | [ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning](https://arxiv.org/abs/2110.10368) |
+|2021 | Arxiv | [CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2112.04564.pdf)
 |2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google, [Code](https://github.com/google-research/crest), Tensorflow |
 |2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
 |2020 | NeurIPS | [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://papers.nips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) | [Code](https://github.com/bbuing9/DARP) |
@@ -131,6 +133,11 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 |Arxiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) |
 
 ----
+
+### Long-Tailed Federated Learning
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2022 |IJCAI | [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) |
 
 
 # eXtreme Multi-label Learning for Information Retrieval
