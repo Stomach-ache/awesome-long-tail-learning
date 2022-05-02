@@ -135,7 +135,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ----
 
-### Long-Tailed Federated Learning
+### Long-Tailed Federated Learning Papers
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2022 |IJCAI | [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) |
