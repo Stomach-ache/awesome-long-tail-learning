@@ -9,6 +9,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
   * [Long-tailed Learning](#Long-tailed-Learning)
   * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning-Papers)
   * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels-Papers)
+  * [Long-Tailed Federated Learning](#Long-Tailed-Federated-Learning-Papers)
   * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
     + [Binary Relevance](#Binary-Relevance)
     + [Tree-based Methods](#Tree-based-Methods)
