@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | IJCV | [A Survey on Long-Tailed Visual Recognition](https://link.springer.com/content/pdf/10.1007/s11263-022-01622-8.pdf) | survey|
 | 2022 | Arxiv | [Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/pdf/2204.08735.pdf) |
 |2022 | ICLR | [OPTIMAL TRANSPORT FOR LONG-TAILED RECOGNI- TION WITH LEARNABLE COST MATRIX](https://openreview.net/pdf?id=t98k9ePQQpn) | |
 |2022 | ICLR | [SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE](https://openreview.net/pdf?id=4AZz9osqrar) | |
