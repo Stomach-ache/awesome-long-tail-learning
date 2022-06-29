@@ -130,8 +130,9 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+[2022] | Arxiv | [Transfer and Share: Semi-Supervised Learning from Long-Tailed Data](https://arxiv.org/abs/2205.13358) | [code](https://github.com/Stomach-ache/TRAS) |
 |2022 | ICLR | [SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS](https://openreview.net/pdf?id=xENf4QUL4LW) | |
-|2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) |
+|2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) | [code](https://github.com/Stomach-ache/PCL) |
 |2021 |Arxiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) |
 
 ----
