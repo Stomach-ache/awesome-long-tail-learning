@@ -54,6 +54,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | arXiv | [Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification](https://arxiv.org/pdf/2208.02951.pdf) | |
+|2022 | TPAMI | [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9848833) | |
 |2022 | IJCV | [A Survey on Long-Tailed Visual Recognition](https://link.springer.com/content/pdf/10.1007/s11263-022-01622-8.pdf) | survey|
 | 2022 | Arxiv | [Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/pdf/2204.08735.pdf) |
 |2022 | ICLR | [OPTIMAL TRANSPORT FOR LONG-TAILED RECOGNI- TION WITH LEARNABLE COST MATRIX](https://openreview.net/pdf?id=t98k9ePQQpn) | |
@@ -239,6 +241,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | TKDE | [BGNN-XML: Bilateral Graph Neural Networks for Extreme Multi-label Text Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839555) | |
 |2021 | ICML | [SiameseXML: Siamese Networks meet Extreme Classifiers with 100M Labels](http://proceedings.mlr.press/v139/dahiya21a.html) | |
 |2020 | KDD | [Correlation Networks for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403151?casa_token=Cl5CVnXgiLYAAAAA:e28yssI46chtVhKl7zUWPW0l6q9SPQ7SXRpr5qujghBNsA2iE_s3D2U-q7DNIjSvDAqRNY6wL_OtOw) | [code](https://github.com/XunGuangxu/CorNet) |
 |2020 | arXiv | [GNN-XML: Graph Neural Networks for Extreme Multi-label Text Classification](https://www.researchgate.net/profile/Shiliang_Sun2/publication/343537175_GNN-XML_Graph_Neural_Networks_for_Extreme_Multi-label_Text_Classification/links/5f2f9f16299bf13404b13cde/GNN-XML-Graph-Neural-Networks-for-Extreme-Multi-label-Text-Classification.pdf) | |
