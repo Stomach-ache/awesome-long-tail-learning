@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2022-08-11
+### :high_brightness: Updated 2022-10-14
 
 
 - Long-tailed Distribution
@@ -117,6 +117,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+｜2022 ｜ICML | [Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data](https://proceedings.mlr.press/v162/lai22b.html) | [code](https://github.com/ZJUJeffLai/SAW_SSL) |
 |2022 | ICLR | [THE RICH GET RICHER: DISPARATE IMPACT OF SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=DXPftn5kjQK) | |
 |2022 | ICLR | [ON NON-RANDOM MISSING LABELS IN SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=6yVvwR9H9Oj) | |
 |2022 | OpenReview | [UNIFYING DISTRIBUTION ALIGNMENT AS A LOSS FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=HHUSDJb_4KJ)
