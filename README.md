@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | NeurIPS | [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | [code](https://github.com/Vanint/SADE-AgnosticLT)|
 |2022 | arXiv | [Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification](https://arxiv.org/pdf/2208.02951.pdf) | |
 |2022 | TPAMI | [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9848833) | |
 |2022 | IJCV | [A Survey on Long-Tailed Visual Recognition](https://link.springer.com/content/pdf/10.1007/s11263-022-01622-8.pdf) | survey|
