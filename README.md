@@ -117,6 +117,8 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2022 | CVPR | [DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_DASO_Distribution-Aware_Semantics-Oriented_Pseudo-Label_for_Imbalanced_Semi-Supervised_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/ytaek-oh/daso) |
+|2022 | MLJ | [Transfer and Share: Semi-Supervised Learning from Long-Tailed Data](https://arxiv.org/abs/2205.13358) | [code](https://github.com/Stomach-ache/TRAS) |
 |2022 | ICML | [Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data](https://proceedings.mlr.press/v162/lai22b.html) | [code](https://github.com/ZJUJeffLai/SAW_SSL) |
 |2022 | ICLR | [THE RICH GET RICHER: DISPARATE IMPACT OF SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=DXPftn5kjQK) | |
 |2022 | ICLR | [ON NON-RANDOM MISSING LABELS IN SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=6yVvwR9H9Oj) | |
@@ -134,7 +136,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2022 | Arxiv | [Transfer and Share: Semi-Supervised Learning from Long-Tailed Data](https://arxiv.org/abs/2205.13358) | [code](https://github.com/Stomach-ache/TRAS) |
+|2022 | ECCV | [Identifying Hard Noise in Long-Tailed Sample Distribution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf) | [code](https://github.com/yxymessi/H2E-Framework), large datasets|
 |2022 | ICLR | [SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS](https://openreview.net/pdf?id=xENf4QUL4LW) | |
 |2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) | [code](https://github.com/Stomach-ache/PCL) |
 |2021 |Arxiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) | [code](https://github.com/Stomach-ache/RoLT)|
