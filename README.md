@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+
 |2022 | NeurIPS | [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | [code](https://github.com/Vanint/SADE-AgnosticLT)|
 |2022 | arXiv | [Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification](https://arxiv.org/pdf/2208.02951.pdf) | |
 |2022 | TPAMI | [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9848833) | |
@@ -61,6 +62,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | 2022 | Arxiv | [Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/pdf/2204.08735.pdf) |
 |2022 | ICLR | [OPTIMAL TRANSPORT FOR LONG-TAILED RECOGNI- TION WITH LEARNABLE COST MATRIX](https://openreview.net/pdf?id=t98k9ePQQpn) | |
 |2022 | ICLR | [SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE](https://openreview.net/pdf?id=4AZz9osqrar) | |
+|2022 | AAAI | [Well-classified Examples are Underestimated in Classification with Deep Neural Networks]([https://arxiv.org/abs/2110.06537]) | [code](https://github.com/lancopku/well-classified-examples-are-underestimated) |
 |2022 | AAAI | [Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification](https://arxiv.org/pdf/2112.14380.pdf) | [code](https://github.com/BeierZhu/xERM) |
 |2021 | NeurIPS | [Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling](https://papers.nips.cc/paper/2021/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html) | |
 |2021 | NeurIPS | [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://papers.nips.cc/paper/2021/hash/39ae2ed11b14a4ccb41d35e9d1ba5d11-Abstract.html) | [code](https://github.com/XuZhengzhuo/Prior-LT), mixup+LA |
@@ -238,6 +240,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 | ------------- |:-------------:| --------------:|------------:|
 |2019           | ICML  | [Sparse Extreme Multi-label Learning with Oracle Property](http://proceedings.mlr.press/v97/liu19d/liu19d.pdf) | [Code](https://github.com/smloracle/smloracle), by Weiwei Liu |
 |2019 | NeurIPS | [Multilabel reductions: what is my loss optimising?](http://papers.nips.cc/paper/9245-multilabel-reductions-what-is-my-loss-optimising.pdf) | [bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:mz-yIu3FslYJ:scholar.google.com/&output=citation&scisdr=CgUK3ErIELLQ673T7yk:AAGBfm0AAAAAX2LW9ylvLsuvrfJKgZu4PETv4cbbc6GX&scisig=AAGBfm0AAAAAX2LW94UGV94llU318HCTU_i63fA5l1Yw&scisf=4&ct=citation&cd=-1&hl=en), by Google | 
+|2022 | AAAI | [Well-classified Examples are Underestimated in Classification with Deep Neural Networks]([https://arxiv.org/abs/2110.06537]) | [code](https://github.com/lancopku/well-classified-examples-are-underestimated), by Peking University |
 
 ----
 
