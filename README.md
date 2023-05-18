@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2022-11-20
+### :high_brightness: Updated 2023-05-18
 
 
 - Long-tailed Distribution
@@ -53,7 +53,17 @@ This repo pays specially attention to the long-tailed distribution, where labels
 ### Long-Tailed Classification Papers
 
 | Year       | Venue     | Title  | Remark
-| ------------- |:-------------:| --------------:|------------:|
+| ------------- |:-------------:| --------------:|------------:| 
+|2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
+|2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
+|2023 | ICLR | [On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) | |
+|2023 | ICLR | [Long-Tailed Learning Requires Feature Learning](https://openreview.net/pdf?id=S-h1oFv-mq) | |
+|2023 | ICLR | [Decoupled Training for Long-Tailed Classification With Stochastic Representations](https://openreview.net/pdf?id=bcYZwYo-0t) | |
+|2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | pre-trained model |
+|2023 | ICLR | [CUDA: Curriculum of Data Augmentation for Long-tailed Recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | |
+|2023 | arXiv | [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/pdf/2304.01457.pdf) | pre-trained model | |
+|2023 | AAAI | [Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition](https://arxiv.org/abs/2211.13471) | video dataset, [code](https://github.com/wjun0830/MOVE)| 
+|2022 | ECCV | [Tailoring Self-Supervision for Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf) | video dataset, [code](https://github.com/wjun0830/Localizable-Rotation)|
 |2022 | NeurIPS | [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | [code](https://github.com/Vanint/SADE-AgnosticLT)|
 |2022 | arXiv | [Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification](https://arxiv.org/pdf/2208.02951.pdf) | |
 |2022 | TPAMI | [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9848833) | |
@@ -117,6 +127,10 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2023 | CVPR | [Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf) | [code](https://github.com/Gank0078/ACR) |
+|2023 | ICLR | [Imbalanced Semi-supervised Learning with Bias Adaptive Classifier](https://openreview.net/pdf?id=rVM8wD2G7Dy) | |
+|2023 | ICLR | [Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data](https://openreview.net/pdf?id=3yJ-hcJBqe) | |
+|2023 | ICLR | [INPL: PSEUDO-LABELING THE INLIERS FIRST FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2303.07269.pdf) | |
 |2022 | CVPR | [DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_DASO_Distribution-Aware_Semantics-Oriented_Pseudo-Label_for_Imbalanced_Semi-Supervised_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/ytaek-oh/daso) |
 |2022 | MLJ | [Transfer and Share: Semi-Supervised Learning from Long-Tailed Data](https://arxiv.org/abs/2205.13358) | [code](https://github.com/Stomach-ache/TRAS) |
 |2022 | ICML | [Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data](https://proceedings.mlr.press/v162/lai22b.html) | [code](https://github.com/ZJUJeffLai/SAW_SSL) |
@@ -136,6 +150,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2023 | ICLR | [LONG-TAILED PARTIAL LABEL LEARNING VIA DYNAMIC REBALANCING](https://arxiv.org/pdf/2302.05080.pdf) | partial label |
 |2022 | ECCV | [Identifying Hard Noise in Long-Tailed Sample Distribution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf) | [code](https://github.com/yxymessi/H2E-Framework), large datasets|
 |2022 | ICLR | [SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS](https://openreview.net/pdf?id=xENf4QUL4LW) | |
 |2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) | [code](https://github.com/Stomach-ache/PCL) |
