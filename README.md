@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2023-05-18
+### :high_brightness: Updated 2023-05-20
 
 
 - Long-tailed Distribution
@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
+|2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
 |2023 | ICLR | [On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) | |
@@ -62,6 +63,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | pre-trained model |
 |2023 | ICLR | [CUDA: Curriculum of Data Augmentation for Long-tailed Recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | |
 |2023 | arXiv | [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/pdf/2304.01457.pdf) | pre-trained model | |
+|2023 | ECCV | [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | pre-trained model |
 |2023 | AAAI | [Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition](https://arxiv.org/abs/2211.13471) | video dataset, [code](https://github.com/wjun0830/MOVE)| 
 |2022 | ECCV | [Tailoring Self-Supervision for Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf) | video dataset, [code](https://github.com/wjun0830/Localizable-Rotation)|
 |2022 | NeurIPS | [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | [code](https://github.com/Vanint/SADE-AgnosticLT)|
