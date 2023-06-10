@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
+|2023 | arXiv| [LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://arxiv.org/pdf/2305.04536) | |
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
