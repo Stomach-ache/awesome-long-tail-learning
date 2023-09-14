@@ -152,7 +152,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2023 | ICLR | [LONG-TAILED PARTIAL LABEL LEARNING VIA DYNAMIC REBALANCING](https://arxiv.org/pdf/2302.05080.pdf) | partial label |
+|2023 | ICLR | [LONG-TAILED PARTIAL LABEL LEARNING VIA DYNAMIC REBALANCING](https://arxiv.org/pdf/2302.05080.pdf) | [code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL), partial label |
 |2022 | ECCV | [Identifying Hard Noise in Long-Tailed Sample Distribution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf) | [code](https://github.com/yxymessi/H2E-Framework), large datasets|
 |2022 | ICLR | [SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS](https://openreview.net/pdf?id=xENf4QUL4LW) | |
 |2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) | [code](https://github.com/Stomach-ache/PCL) |
