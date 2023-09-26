@@ -2,7 +2,7 @@
 
 This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2023-05-20
+### :high_brightness: Updated 2023-09-26
 
 
 - Long-tailed Distribution
@@ -54,6 +54,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
+|2023 | arXiv| [Parameter-Efficient Long-Tailed Recognition](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥[code](https://github.com/shijxcs/PEL#parameter-efficient-long-tailed-recognition)| 
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
@@ -129,7 +130,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2023 | CVPR | [Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf) | [code](https://github.com/Gank0078/ACR) |
+|2023 | CVPR | [Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf) | 🔥🔥🔥[code](https://github.com/Gank0078/ACR) |
 |2023 | ICLR | [Imbalanced Semi-supervised Learning with Bias Adaptive Classifier](https://openreview.net/pdf?id=rVM8wD2G7Dy) | |
 |2023 | ICLR | [Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data](https://openreview.net/pdf?id=3yJ-hcJBqe) | |
 |2023 | ICLR | [INPL: PSEUDO-LABELING THE INLIERS FIRST FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2303.07269.pdf) | |
