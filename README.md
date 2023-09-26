@@ -42,29 +42,22 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2021 | CVPR | [Learning from Limited and Imperfect Data (L2ID)](https://l2id.github.io/) | label noise, SSL, long-tail |
 
 
-### Long-Tailed Regression Papers
-| Year       | Venue     | Title  | Remark
-| ------------- |:-------------:| --------------:|------------:|
-|2022 | CVPR | [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/pdf/2203.16427.pdf) | |
-|2021 | OpenReview | [LIFTING IMBALANCED REGRESSION WITH SELF- SUPERVISED LEARNING](https://openreview.net/pdf?id=8Dhw-NmmwT3) | iclr rejected |
-|2021 | ICML | [Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | [code](https://github.com/YyzHarry/imbalanced-regression) |
-
 
 ### Long-Tailed Classification Papers
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
-|2023 | arXiv| [Parameter-Efficient Long-Tailed Recognition](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥[code](https://github.com/shijxcs/PEL#parameter-efficient-long-tailed-recognition)| 
+|2023 | arXiv| [Parameter-Efficient Long-Tailed Recognition](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥fine-tune CLIP, [code](https://github.com/shijxcs/PEL#parameter-efficient-long-tailed-recognition)| 
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
 |2023 | ICLR | [On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) | |
 |2023 | ICLR | [Long-Tailed Learning Requires Feature Learning](https://openreview.net/pdf?id=S-h1oFv-mq) | |
 |2023 | ICLR | [Decoupled Training for Long-Tailed Classification With Stochastic Representations](https://openreview.net/pdf?id=bcYZwYo-0t) | |
-|2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | pre-trained model |
+|2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | fine-tune ViT |
 |2023 | ICLR | [CUDA: Curriculum of Data Augmentation for Long-tailed Recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | |
 |2023 | arXiv | [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/pdf/2304.01457.pdf) | pre-trained model | |
-|2023 | ECCV | [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | pre-trained model |
+|2023 | ECCV | [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | fine-tune CLIP |
 |2023 | AAAI | [Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition](https://arxiv.org/abs/2211.13471) | video dataset, [code](https://github.com/wjun0830/MOVE)| 
 |2022 | ECCV | [Tailoring Self-Supervision for Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf) | video dataset, [code](https://github.com/wjun0830/Localizable-Rotation)|
 |2022 | NeurIPS | [Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | [code](https://github.com/Vanint/SADE-AgnosticLT)|
@@ -122,6 +115,15 @@ This repo pays specially attention to the long-tailed distribution, where labels
 |2018 | - | [iNatrualist. The inaturalist 2018 competition dataset](https://github.com/visipedia/inat_comp/tree/master/2018) | long-tailed dataset |
 |2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
 |2017 | NeurIPS | Learning to model the tail | |
+
+----
+
+### Long-Tailed Regression Papers
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2022 | CVPR | [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/pdf/2203.16427.pdf) | |
+|2021 | OpenReview | [LIFTING IMBALANCED REGRESSION WITH SELF- SUPERVISED LEARNING](https://openreview.net/pdf?id=8Dhw-NmmwT3) | iclr rejected |
+|2021 | ICML | [Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | [code](https://github.com/YyzHarry/imbalanced-regression) |
 
 ----
 
