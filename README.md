@@ -1,14 +1,15 @@
 # Awesome Long-Tail Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo pays specially attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset or/and test dataset. Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
+This repo pays special attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset and/or test dataset. Related papers are summarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2023-09-26
+### :high_brightness: Updated 2023-12-13
 
 
 - Long-tailed Distribution
   * [Long-tail Learning](#Long-tailed-Learning)
   * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning-Papers)
   * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels-Papers)
+  * [Long-Tailed OOD Detection](#Long-Tailed-OOD-Detection-Papers)
   * [Long-Tailed Federated Learning](#Long-Tailed-Federated-Learning-Papers)
   * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
     + [Binary Relevance](#Binary-Relevance)
@@ -163,6 +164,13 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ----
 
+### Long-Tailed OOD Detection Papers
+| Year       | Venue     | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+|2024 | AAAI | [EAT: Towards Long-Tailed Out-of-Distribution Detection](https://palm.seu.edu.cn/weit/paper/AAAI2024_EAT.pdf) | 🔥🔥🔥 [code](https://github.com/Stomach-ache/Long-Tailed-OOD-Detection) |
+
+----
+
 ### Long-Tailed Federated Learning Papers
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
@@ -252,7 +260,7 @@ This repo pays specially attention to the long-tailed distribution, where labels
 
 ----
 
-## Theoritical Studies
+## Theoretical Studies
 
 | Year       | Venue      | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
