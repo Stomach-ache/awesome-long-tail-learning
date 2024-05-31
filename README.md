@@ -48,7 +48,8 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
-|2023 | arXiv| [Parameter-Efficient Long-Tailed Recognition](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥fine-tune CLIP, [code](https://github.com/shijxcs/PEL#parameter-efficient-long-tailed-recognition)| 
+|2024 | ICML| [Learning Label Shift Correction for Test-Agnostic Long-Tailed Recognition](https://palm.seu.edu.cn/weit/paper/ICML2024_LSC.pdf) |  [code](https://github.com/Stomach-ache/label-shift-correction)| 
+|2024 | ICML| [Long-Tail Learning with Foundation Model: Heavy Fine-Tuning Hurts](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥 [code](https://github.com/shijxcs/LIFT)| 
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
@@ -57,6 +58,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2023 | ICLR | [Decoupled Training for Long-Tailed Classification With Stochastic Representations](https://openreview.net/pdf?id=bcYZwYo-0t) | |
 |2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | fine-tune ViT |
 |2023 | ICLR | [CUDA: Curriculum of Data Augmentation for Long-tailed Recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | |
+|2023 | NeurIPS | [Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models](https://openreview.net/pdf?id=9qG6cMGUWk) | [code](https://github.com/BeierZhu/GLA) |
 |2023 | arXiv | [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/pdf/2304.01457.pdf) | pre-trained model | |
 |2023 | ECCV | [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | fine-tune CLIP |
 |2023 | AAAI | [Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition](https://arxiv.org/abs/2211.13471) | video dataset, [code](https://github.com/wjun0830/MOVE)| 
@@ -65,18 +67,18 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2022 | arXiv | [Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification](https://arxiv.org/pdf/2208.02951.pdf) | |
 |2022 | TPAMI | [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9848833) | |
 |2022 | IJCV | [A Survey on Long-Tailed Visual Recognition](https://link.springer.com/content/pdf/10.1007/s11263-022-01622-8.pdf) | survey|
-| 2022 | Arxiv | [Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/pdf/2204.08735.pdf) |
+| 2022 | arXiv | [Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/pdf/2204.08735.pdf) |
 |2022 | ICLR | [OPTIMAL TRANSPORT FOR LONG-TAILED RECOGNI- TION WITH LEARNABLE COST MATRIX](https://openreview.net/pdf?id=t98k9ePQQpn) | |
 |2022 | ICLR | [SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE](https://openreview.net/pdf?id=4AZz9osqrar) | |
 |2022 | AAAI | [Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification](https://arxiv.org/pdf/2112.14380.pdf) | [code](https://github.com/BeierZhu/xERM) |
 |2021 | NeurIPS | [Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling](https://papers.nips.cc/paper/2021/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html) | |
 |2021 | NeurIPS | [Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective](https://papers.nips.cc/paper/2021/hash/39ae2ed11b14a4ccb41d35e9d1ba5d11-Abstract.html) | [code](https://github.com/XuZhengzhuo/Prior-LT), mixup+LA |
-|2021 |Arxiv | [HAR: Hardness Aware Reweighting for Imbalanced Datasets](https://poloclub.github.io/papers/21-bigdata-har.pdf)|  |
-|2021 |Arxiv | [Feature Generation for Long-tail Classification](https://arxiv.org/pdf/2111.05956.pdf) |
-|2021 |Arxiv | [Label-Aware Distribution Calibration for Long-tailed Classification](https://arxiv.org/pdf/2111.04901.pdf)  |
-|2021 | Arxiv | [Self-supervised Learning is More Robust to Dataset Imbalance](https://arxiv.org/pdf/2110.05025.pdf) | |
+|2021 |arXiv | [HAR: Hardness Aware Reweighting for Imbalanced Datasets](https://poloclub.github.io/papers/21-bigdata-har.pdf)|  |
+|2021 |arXiv | [Feature Generation for Long-tail Classification](https://arxiv.org/pdf/2111.05956.pdf) |
+|2021 |arXiv | [Label-Aware Distribution Calibration for Long-tailed Classification](https://arxiv.org/pdf/2111.04901.pdf)  |
+|2021 | arXiv | [Self-supervised Learning is More Robust to Dataset Imbalance](https://arxiv.org/pdf/2110.05025.pdf) | |
 |2021 | Arixiv | [Long-tailed Distribution Adaptation](https://arxiv.org/pdf/2110.02686.pdf) | |
-|2021 | Arxiv | [LEARNING FROM LONG-TAILED DATA WITH NOISY LABELS](https://arxiv.org/pdf/2108.11096.pdf) | |
+|2021 | arXiv | [LEARNING FROM LONG-TAILED DATA WITH NOISY LABELS](https://arxiv.org/pdf/2108.11096.pdf) | |
 |2021 | ICCV  | [Self Supervision to Distillation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2109.04075) | |
 |2021 | ICCV | [Distilling Virtual Examples for Long-tailed Recognition](https://cs.nju.edu.cn/wujx/paper/ICCV2021_DiVE.pdf) |
 |2021 | CVPR  | [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267.pdf) | |
@@ -86,15 +88,15 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2021 | CVPR  | [Seesaw Loss for Long-Tailed Instance Segmentation](https://arxiv.org/pdf/2008.10032.pdf) | |
 |2021 | ICLR  | [Exploring balanced feature spaces for representation learning](https://openreview.net/pdf?id=OqtLIabPTit) | |
 |2021 | ICLR  | [IS LABEL SMOOTHING TRULY INCOMPATIBLE WITH KNOWLEDGE DISTILLATION: AN EMPIRICAL STUDY](https://openreview.net/pdf?id=PObuuGVrGaZ#:~:text=Our%20answer%20is%20No.,the%20predictive%20performance%20of%20students.) | |
-|2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094.pdf) | |
-|2021 | Arxiv | [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633v2.pdf) |
-|2021 | Arxiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094v1.pdf) |
-|2021 |Arxiv | [Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces](https://arxiv.org/pdf/2105.05736.pdf) | by Google |
-|2021 | Arxiv | [Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition](https://arxiv.org/pdf/2105.00127.pdf) | |
-|2021 | Arxiv | [Procrustean Training for Imbalanced Deep Learning](https://arxiv.org/pdf/2104.01769.pdf) | |
-|2021 | Arxiv| [Balanced Knowledge Distillation for Long-tailed Learning](https://arxiv.org/pdf/2104.10510.pdf) | `CBS`+`IS`, [Code](https://github.com/EricZsy/BalancedKnowledgeDistillation)|
-|2021 | Arxiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | `ENS`+`DA`+`IS`, by Google Research |
-|2021 | Arxiv| [Distributional Robustness Loss for Long-tail Learning](https://arxiv.org/pdf/2104.03066.pdf) | `TST`+`CBS` |
+|2021 | arXiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094.pdf) | |
+|2021 | arXiv | [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633v2.pdf) |
+|2021 | arXiv | [Improving Long-Tailed Classification from Instance Level](https://arxiv.org/pdf/2104.06094v1.pdf) |
+|2021 |arXiv | [Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces](https://arxiv.org/pdf/2105.05736.pdf) | by Google |
+|2021 | arXiv | [Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition](https://arxiv.org/pdf/2105.00127.pdf) | |
+|2021 | arXiv | [Procrustean Training for Imbalanced Deep Learning](https://arxiv.org/pdf/2104.01769.pdf) | |
+|2021 | arXiv| [Balanced Knowledge Distillation for Long-tailed Learning](https://arxiv.org/pdf/2104.10510.pdf) | `CBS`+`IS`, [Code](https://github.com/EricZsy/BalancedKnowledgeDistillation)|
+|2021 | arXiv| [Class-Balanced Distillation for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2104.05279.pdf) | `ENS`+`DA`+`IS`, by Google Research |
+|2021 | arXiv| [Distributional Robustness Loss for Long-tail Learning](https://arxiv.org/pdf/2104.03066.pdf) | `TST`+`CBS` |
 |2021 | CVPR| [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | `DA`+`TST`, [Code](https://github.com/Jia-Research-Lab/MiSLAS) |
 |2021 | CVPR| [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | `TST` |
 |2021 | CVPR | [Adversarial Robustness under Long-Tailed Distribution](https://arxiv.org/pdf/2104.02703.pdf) | |
@@ -102,8 +104,8 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2021 | ICLR | [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | `ENS`+`NC`, [Code](https://github.com/frank-xwang/RIDE-LongTailRecognition), by Zi-Wei Liu |
 |2021 | ICLR | [Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | by Google |
 |2021 | AAAI | [Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | |
-|2021           | Arxiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
-|2020 | Arxiv| [ELF: An Early-Exiting Framework for Long-Tailed Classification](https://arxiv.org/pdf/2006.11979.pdf) | |
+|2021           | arXiv | [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | |
+|2020 | arXiv| [ELF: An Early-Exiting Framework for Long-Tailed Classification](https://arxiv.org/pdf/2006.11979.pdf) | |
 |2020 | CVPR | [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | |
 |2020 | CVPR | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | |
 |2020 | CVPR | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)
@@ -114,7 +116,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2019 | NeurIPS | [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | [Code](https://github.com/kaidic/LDAM-DRW) |
 |2019           | CVPR  | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | [Code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR), [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/0002MZWGY19), by CUHK |
 |2018 | - | [iNatrualist. The inaturalist 2018 competition dataset](https://github.com/visipedia/inat_comp/tree/master/2018) | long-tailed dataset |
-|2017 | Arxiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
+|2017 | arXiv | [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/pdf/1709.01450.pdf) | |
 |2017 | NeurIPS | Learning to model the tail | |
 
 ----
@@ -133,7 +135,10 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2024 | arXiv| [Towards Realistic Long-tailed Semi-supervised Learning in an Open World](https://arxiv.org/abs/2405.14516) | [code](https://github.com/heyuanpengpku/ROLSSL) |
+|2024 | ICML | [SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning](https://arxiv.org/abs/2402.13505) | [code](https://github.com/LeapLabTHU/SimPro) |
 |2023 | CVPR | [Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf) | 🔥🔥🔥[code](https://github.com/Gank0078/ACR) |
+|2023 | NeurIPS | [Towards Distribution-Agnostic Generalized Category Discovery](https://papers.nips.cc/paper_files/paper/2023/file/b7216f4a324864e1f592c18de4d83d10-Paper-Conference.pdf) | [code](https://github.com/JianhongBai/BaCon) |
 |2023 | ICLR | [Imbalanced Semi-supervised Learning with Bias Adaptive Classifier](https://openreview.net/pdf?id=rVM8wD2G7Dy) | |
 |2023 | ICLR | [Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data](https://openreview.net/pdf?id=3yJ-hcJBqe) | |
 |2023 | ICLR | [INPL: PSEUDO-LABELING THE INLIERS FIRST FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2303.07269.pdf) | |
@@ -144,9 +149,9 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2022 | ICLR | [ON NON-RANDOM MISSING LABELS IN SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=6yVvwR9H9Oj) | |
 |2022 | OpenReview | [UNIFYING DISTRIBUTION ALIGNMENT AS A LOSS FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=HHUSDJb_4KJ)
 |2021 |NeurIPS | [ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning](https://arxiv.org/abs/2110.10368) |
-|2021 | Arxiv | [CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2112.04564.pdf)
+|2021 | arXiv | [CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2112.04564.pdf)
 |2021 | CVPR | [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning](https://arxiv.org/pdf/2102.09559.pdf) | by Google, [Code](https://github.com/google-research/crest), Tensorflow |
-|2021 | Arxiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
+|2021 | arXiv | [DISTRIBUTION-AWARE SEMANTICS-ORIENTED PSEUDO-LABEL FOR IMBALANCED SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2106.05682.pdf) | SSL, [Code](https://github.com/ytaek-oh/daso) |
 |2020 | NeurIPS | [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://papers.nips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) | [Code](https://github.com/bbuing9/DARP) |
 
 ----
@@ -157,10 +162,11 @@ This repo pays special attention to the long-tailed distribution, where labels f
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2023 | ICLR | [LONG-TAILED PARTIAL LABEL LEARNING VIA DYNAMIC REBALANCING](https://arxiv.org/pdf/2302.05080.pdf) | [code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL), partial label |
+|2023 | ICCV | [When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_When_Noisy_Labels_Meet_Long_Tail_Dilemmas_A_Representation_Calibration_ICCV_2023_paper.pdf) | |
 |2022 | ECCV | [Identifying Hard Noise in Long-Tailed Sample Distribution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf) | [code](https://github.com/yxymessi/H2E-Framework), large datasets|
 |2022 | ICLR | [SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS](https://openreview.net/pdf?id=xENf4QUL4LW) | |
 |2022 |PAKDD | [Prototypical Classifier for Robust Class-Imbalanced Learning](https://arxiv.org/pdf/2110.11553.pdf) | [code](https://github.com/Stomach-ache/PCL) |
-|2021 |Arxiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) | [code](https://github.com/Stomach-ache/RoLT)|
+|2021 |arXiv | [ROBUST LONG-TAILED LEARNING UNDER LABEL NOISE](https://arxiv.org/pdf/2108.11569.pdf) | [code](https://github.com/Stomach-ache/RoLT)|
 
 ----
 
@@ -304,7 +310,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 ### Train/Test Split
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-|2021 | Arxiv | [Stratified Sampling for Extreme Multi-Label Data](https://arxiv.org/pdf/2103.03494.pdf) | | 
+|2021 | arXiv | [Stratified Sampling for Extreme Multi-Label Data](https://arxiv.org/pdf/2103.03494.pdf) | | 
 
 
 ### XML Seminar
