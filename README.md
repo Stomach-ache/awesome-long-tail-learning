@@ -2,7 +2,7 @@
 
 This repo pays special attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset and/or test dataset. Related papers are summarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2023-12-13
+### :high_brightness: Updated 2024-06-27
 
 
 - Long-tailed Distribution
@@ -48,6 +48,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
+|2024 | ICML| [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780) | [code](https://github.com/scongl/DirMixE) |
 |2024 | ICML| [Learning Label Shift Correction for Test-Agnostic Long-Tailed Recognition](https://palm.seu.edu.cn/weit/paper/ICML2024_LSC.pdf) |  [code](https://github.com/Stomach-ache/label-shift-correction)| 
 |2024 | ICML| [Long-Tail Learning with Foundation Model: Heavy Fine-Tuning Hurts](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥 [code](https://github.com/shijxcs/LIFT)| 
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
@@ -58,6 +59,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2023 | ICLR | [Decoupled Training for Long-Tailed Classification With Stochastic Representations](https://openreview.net/pdf?id=bcYZwYo-0t) | |
 |2023 | ICLR | [LPT: Long-tailed Prompt Tuning for Image Classification](https://openreview.net/pdf?id=8pOVAeo8ie) | fine-tune ViT |
 |2023 | ICLR | [CUDA: Curriculum of Data Augmentation for Long-tailed Recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | |
+|2023 | NeurIPS | [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning ](https://arxiv.org/abs/2310.04752) | [code](https://github.com/wang22ti/DDC) |
 |2023 | NeurIPS | [Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models](https://openreview.net/pdf?id=9qG6cMGUWk) | [code](https://github.com/BeierZhu/GLA) |
 |2023 | arXiv | [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/pdf/2304.01457.pdf) | pre-trained model | |
 |2023 | ECCV | [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | fine-tune CLIP |
