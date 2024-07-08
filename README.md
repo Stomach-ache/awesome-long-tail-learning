@@ -2,7 +2,7 @@
 
 This repo pays special attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset and/or test dataset. Related papers are summarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2024-06-27
+### :high_brightness: Updated 2024-07-08
 
 
 - Long-tailed Distribution
@@ -52,6 +52,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 |2024 | ICML| [Learning Label Shift Correction for Test-Agnostic Long-Tailed Recognition](https://palm.seu.edu.cn/weit/paper/ICML2024_LSC.pdf) |  [code](https://github.com/Stomach-ache/label-shift-correction)| 
 |2024 | ICML| [Long-Tail Learning with Foundation Model: Heavy Fine-Tuning Hurts](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥 [code](https://github.com/shijxcs/LIFT)| 
 |2023 | TPAMI| [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf) | |
+|2023 | TPAMI| [Probabilistic Contrastive Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2403.06726) | [code](https://github.com/LeapLabTHU/ProCo) |
 |2023 | ICLR | [Delving into Semantic Scale Imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | |
 |2023 | ICLR | [Temperature Schedules for self-supervised contrastive methods on long-tail data](https://openreview.net/pdf?id=ejHUr4nfHhD) | |
 |2023 | ICLR | [On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) | |
