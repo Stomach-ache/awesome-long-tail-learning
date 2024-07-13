@@ -2,25 +2,16 @@
 
 This repo pays special attention to the long-tailed distribution, where labels follow a long-tailed or power-law distribution in the training dataset and/or test dataset. Related papers are summarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
 
-### :high_brightness: Updated 2024-07-08
+### :high_brightness: Updated 2024-07-13
 
 
 - Long-tailed Distribution
   * [Long-tail Learning](#Long-tailed-Learning)
-  * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning-Papers)
-  * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels-Papers)
-  * [Long-Tailed OOD Detection](#Long-Tailed-OOD-Detection-Papers)
-  * [Long-Tailed Federated Learning](#Long-Tailed-Federated-Learning-Papers)
-  * [eXtreme Multi-label Learning for Information Retrieval](#eXtreme-Multi-label-Learning-for-Information-Retrieval)
-    + [Binary Relevance](#Binary-Relevance)
-    + [Tree-based Methods](#Tree-based-Methods)
-    + [Embedding-based Methods](#Embedding-based-Methods)
-    + [Speed-up and Compression](#Speed-up-and-Compression)
-    + [Noval XML Setups](#Noval-XML-Settings)
-    + [Theoritical Studies](#Theoritical-Studies)
-    + [Text Classification](#Text-Classification)
-    + [Others](#Others)
-  
+  * [Long-Tailed Semi-Supervised Learning](#Long-Tailed-Semi-Supervised-Learning)
+  * [Long-Tailed Learning with Noisy Labels](#Long-Tailed-Learning-with-Noisy-Labels)
+  * [Long-Tailed OOD Detection](#Long-Tailed-OOD-Detection)
+  * [Long-Tailed Federated Learning](#Long-Tailed-Federated-Learning)
+  * [eXtreme Multi-label Learning](#eXtreme-Multi-label-Learning)
 
 
 <!-- toc -->
@@ -44,7 +35,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 
 
-### Long-Tailed Classification Papers
+### Long-Tailed Classification
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
@@ -124,7 +115,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 ----
 
-### Long-Tailed Regression Papers
+### Long-Tailed Regression
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2022 | CVPR | [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/pdf/2203.16427.pdf) | |
@@ -134,7 +125,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 ----
 
 
-### Long-Tailed Semi-Supervised Learning Papers
+### Long-Tailed Semi-Supervised Learning
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
@@ -160,10 +151,11 @@ This repo pays special attention to the long-tailed distribution, where labels f
 ----
 
 
-### Long-Tailed Learning with Noisy Labels Papers
+### Long-Tailed Learning with Noisy Labels
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2024 | CVPR | [SURE: SUrvey REcipes for building reliable and robust deep networks](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) | [code](https://yutingli0606.github.io/SURE/) |
 |2023 | ICLR | [LONG-TAILED PARTIAL LABEL LEARNING VIA DYNAMIC REBALANCING](https://arxiv.org/pdf/2302.05080.pdf) | [code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL), partial label |
 |2023 | ICCV | [When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_When_Noisy_Labels_Meet_Long_Tail_Dilemmas_A_Representation_Calibration_ICCV_2023_paper.pdf) | |
 |2022 | ECCV | [Identifying Hard Noise in Long-Tailed Sample Distribution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf) | [code](https://github.com/yxymessi/H2E-Framework), large datasets|
@@ -173,20 +165,20 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 ----
 
-### Long-Tailed OOD Detection Papers
+### Long-Tailed OOD Detection
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2024 | AAAI | [EAT: Towards Long-Tailed Out-of-Distribution Detection](https://palm.seu.edu.cn/weit/paper/AAAI2024_EAT.pdf) | 🔥🔥🔥 [code](https://github.com/Stomach-ache/Long-Tailed-OOD-Detection) |
 
 ----
 
-### Long-Tailed Federated Learning Papers
+### Long-Tailed Federated Learning
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2022 |IJCAI | [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) |
 
 
-# eXtreme Multi-label Learning for Information Retrieval
+# eXtreme Multi-label Learning
 
 
 ## Binary Relevance
