@@ -39,6 +39,7 @@ This repo pays special attention to the long-tailed distribution, where labels f
 
 | Year       | Venue     | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:| 
+|2024 | CVPR| [DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets](https://arxiv.org/abs/2404.02900) | [code](https://github.com/val-iisc/DeiT-LT) |
 |2024 | ICML| [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780) | [code](https://github.com/scongl/DirMixE) |
 |2024 | ICML| [Learning Label Shift Correction for Test-Agnostic Long-Tailed Recognition](https://palm.seu.edu.cn/weit/paper/ICML2024_LSC.pdf) |  [code](https://github.com/Stomach-ache/label-shift-correction)| 
 |2024 | ICML| [Long-Tail Learning with Foundation Model: Heavy Fine-Tuning Hurts](https://arxiv.org/pdf/2309.10019.pdf) | 🔥🔥🔥 [code](https://github.com/shijxcs/LIFT)| 
